@@ -1,0 +1,186 @@
+prompt,completion
+,Tất cả các trường bắt buộc phải được xác thực và biểu thị bằng biểu tượng dấu hoa thị (*).
+,Thông báo lỗi xác thực phải được hiển thị đúng ở vị trí chính xác.
+,Tất cả các thông báo lỗi phải được hiển thị theo cùng một kiểu CSS (ví dụ: sử dụng màu đỏ)
+,Các thông báo xác nhận chung sẽ được hiển thị bằng cách sử dụng kiểu CSS khác với kiểu thông báo lỗi (ví dụ: sử dụng màu xanh lá cây)
+,Tooltips Văn bản nên có ý nghĩa.
+,Các trường thả xuống phải có mục đầu tiên dưới dạng trống hoặc văn bản như ‘chọn.
+,"Xóa chức năng, cho bất kỳ bản ghi nào trên một trang nên yêu cầu xác nhận."
+,Chọn/Bỏ chọn tất cả tùy chọn hồ sơ sẽ được cung cấp nếu trang hỗ trợ bản ghi Thêm/Xóa/Cập nhật chức năng
+,Giá trị số lượng phải được hiển thị với các ký hiệu tiền tệ chính xác.
+,Sắp xếp trang mặc định nên được cung cấp.
+,Chức năng nút đặt lại sẽ đặt các giá trị mặc định cho tất cả các trường.
+,Tất cả các giá trị số nên được định dạng đúng.
+,Các trường đầu vào phải được kiểm tra giá trị trường tối đa.Các giá trị đầu vào lớn hơn giới hạn tối đa được chỉ định không được chấp nhận hoặc lưu trữ trong cơ sở dữ liệu.
+,Kiểm tra tất cả các trường đầu vào cho các ký tự đặc biệt.
+,"Nhãn trường phải là tiêu chuẩn, ví dụ:Trường chấp nhận tên người dùng tên đầu tiên nên được dán nhãn đúng là ‘tên đầu tiên."
+,Kiểm tra chức năng sắp xếp trang sau khi thêm/chỉnh sửa/xóa các hoạt động trên bất kỳ bản ghi nào.
+,Kiểm tra chức năng hết thời gian.Giá trị thời gian chờ phải được cấu hình.Kiểm tra hành vi ứng dụng sau thời gian chờ hoạt động.
+,Kiểm tra cookie được sử dụng trong một ứng dụng.
+,Kiểm tra nếu các tệp có thể tải xuống đang chỉ vào các đường dẫn tệp chính xác.
+,Tất cả các khóa tài nguyên phải được cấu hình trong các tệp cấu hình hoặc cơ sở dữ liệu thay vì mã hóa cứng.
+,Các quy ước tiêu chuẩn nên được tuân thủ trong suốt để đặt tên khóa tài nguyên.
+,Xác thực đánh dấu cho tất cả các trang web (xác nhận HTML và CSS cho các lỗi cú pháp) để đảm bảo nó tuân thủ các tiêu chuẩn.
+,Sự cố ứng dụng hoặc các trang không có sẵn nên được chuyển hướng đến trang lỗi.
+,Kiểm tra văn bản trên tất cả các trang để biết lỗi chính tả và ngữ pháp.
+,Kiểm tra các trường đầu vào số với các giá trị đầu vào ký tự.Một thông điệp xác nhận thích hợp sẽ xuất hiện.
+,Kiểm tra số âm nếu được phép cho các trường số.
+,Kiểm tra số lượng trường có giá trị số thập phân.
+,Kiểm tra chức năng của các nút có sẵn trên tất cả các trang.
+,Người dùng không thể gửi trang hai lần bằng cách nhấn nút gửi liên tiếp.
+,Chia cho các lỗi bằng không nên được xử lý cho bất kỳ tính toán nào.
+,Dữ liệu đầu vào với chỗ trống vị trí đầu tiên và cuối cùng nên được xử lý chính xác.
+,"Tất cả các trường trên một trang (ví dụ: hộp văn bản, tùy chọn radio, danh sách thả xuống) nên được căn chỉnh đúng cách."
+,Các giá trị số phải được chứng minh chính xác trừ khi được chỉ định khác.
+,"Đủ không gian nên được cung cấp giữa các nhãn trường, cột, hàng, thông báo lỗi, v.v."
+,Thanh cuộn chỉ được bật khi cần thiết.
+,"Kích thước phông chữ, kiểu và màu cho tiêu đề, văn bản mô tả, nhãn, dữ liệu nội bộ và thông tin lưới phải là tiêu chuẩn như được chỉ định trong SRS."
+,Hộp văn bản mô tả phải được nhiều thứ.
+,Các trường bị vô hiệu hóa nên bị mờ đi và người dùng không thể tập trung vào các trường này.
+,"Khi nhấp vào trường văn bản đầu vào, con trỏ mũi tên chuột sẽ được thay đổi thành con trỏ."
+,Người dùng không thể nhập danh sách chọn thả xuống.
+,Thông tin được điền bởi người dùng sẽ vẫn còn nguyên khi có thông báo lỗi trên trang.Người dùng sẽ có thể gửi biểu mẫu lại bằng cách sửa các lỗi.
+,Kiểm tra xem nhãn trường thích hợp được sử dụng trong các thông báo lỗi.
+,Kiểm tra xem các tùy chọn danh sách thả xuống có thể đọc được và không bị cắt ngắn do giới hạn kích thước trường.
+,Tất cả các nút trên một trang phải được truy cập bằng các phím tắt và người dùng sẽ có thể thực hiện tất cả các hoạt động bằng bàn phím.
+,Kiểm tra tất cả các trang cho hình ảnh bị hỏng.
+,Kiểm tra tất cả các trang cho các liên kết bị hỏng.
+,Tất cả các trang nên có một tiêu đề.
+,Thông báo xác nhận phải được hiển thị trước khi thực hiện bất kỳ hoạt động cập nhật hoặc xóa.
+,Đồng hồ cát nên được hiển thị khi ứng dụng bận.
+,Văn bản trang nên được thừa nhận.
+,Người dùng chỉ có thể chọn một tùy chọn radio và bất kỳ kết hợp nào cho các hộp kiểm.
+,Người dùng sẽ có thể lọc kết quả bằng tất cả các tham số trên trang.
+,Tinh chỉnh chức năng tìm kiếm sẽ tải trang tìm kiếm với tất cả các tham số tìm kiếm do người dùng chọn.
+,"Khi có ít nhất một tiêu chí bộ lọc cần thiết để thực hiện thao tác tìm kiếm, hãy đảm bảo thông báo lỗi thích hợp được hiển thị khi người dùng gửi trang mà không cần chọn bất kỳ tiêu chí lọc nào."
+,"Khi ít nhất một lựa chọn tiêu chí bộ lọc không bắt buộc, người dùng sẽ có thể gửi trang và tiêu chí tìm kiếm mặc định sẽ làm quen với kết quả truy vấn."
+,Thông báo xác thực thích hợp phải được hiển thị cho tất cả các giá trị không hợp lệ cho các tiêu chí bộ lọc.
+,Biểu tượng tải trang phải được hiển thị khi nó mất nhiều thời gian mặc định để tải trang kết quả.
+,Kiểm tra xem tất cả các tham số tìm kiếm được sử dụng để tìm nạp dữ liệu được hiển thị trên lưới kết quả.
+,Tổng số kết quả sẽ được hiển thị trong lưới kết quả.
+,Tiêu chí tìm kiếm được sử dụng để tìm kiếm nên được hiển thị trong lưới kết quả.
+,Giá trị lưới kết quả phải được sắp xếp theo cột mặc định.
+,Các cột được sắp xếp phải được hiển thị với biểu tượng sắp xếp.
+,Lưới kết quả phải bao gồm tất cả các cột được chỉ định với các giá trị chính xác.
+,Chức năng sắp xếp tăng dần và giảm dần nên hoạt động cho các cột được hỗ trợ bằng cách sắp xếp dữ liệu.
+,Lưới kết quả phải được hiển thị với khoảng cách cột và hàng thích hợp.
+,Sản phẩm nên được bật khi có nhiều kết quả hơn số kết quả mặc định trên mỗi trang.
+,"Kiểm tra chức năng phân trang tiếp theo, trước, trước và trang cuối cùng."
+,Không nên hiển thị các bản ghi trùng lặp trong lưới kết quả.
+,Kiểm tra xem tất cả các cột có thể nhìn thấy không và một thanh cuộn ngang được bật nếu cần thiết.
+,Kiểm tra dữ liệu cho các cột động (các cột có giá trị được tính toán động dựa trên các giá trị cột khác).
+,"Đối với các lưới kết quả hiển thị báo cáo, kiểm tra tổng số hàng và xác minh tổng số cho mỗi cột."
+,"Đối với các lưới kết quả hiển thị báo cáo, kiểm tra tổng số dữ liệu hàng khi phân trang được bật và người dùng được điều hướng đến trang tiếp theo."
+,"Kiểm tra xem các ký hiệu thích hợp được sử dụng để hiển thị các giá trị cột, ví dụ:Biểu tượng % nên được hiển thị để tính toán tỷ lệ phần trăm."
+,Kiểm tra dữ liệu lưới kết quả để biết nếu phạm vi ngày được bật.
+,Kiểm tra xem kích thước cửa sổ mặc định có chính xác không.
+,Kiểm tra xem kích thước cửa sổ trẻ em có chính xác không.
+,"Kiểm tra xem có bất kỳ trường nào trên trang với tiêu điểm mặc định không (nói chung, trọng tâm phải được đặt trên trường đầu vào đầu tiên của màn hình)."
+,Kiểm tra xem cửa sổ con có bị đóng khi đóng cửa sổ cha mẹ/người mở không.
+,"Nếu cửa sổ con được mở, người dùng không thể sử dụng hoặc cập nhật bất kỳ trường nào trong nền hoặc cửa sổ cha mẹ"
+,"Kiểm tra cửa sổ giảm thiểu, tối đa hóa và đóng chức năng."
+,Kiểm tra xem cửa sổ có thể tái định cư không.
+,Kiểm tra chức năng thanh cuộn cho cửa sổ cha và con.
+,Kiểm tra chức năng nút Hủy cho cửa sổ trẻ em.
+,Kiểm tra xem dữ liệu chính xác có được lưu trong cơ sở dữ liệu khi gửi trang thành công không.
+,Kiểm tra các giá trị cho các cột không chấp nhận các giá trị null.
+,Kiểm tra tính toàn vẹn của dữ liệu.Dữ liệu nên được lưu trữ trong một hoặc nhiều bảng dựa trên thiết kế.
+,"Tên chỉ mục phải được đưa ra theo các tiêu chuẩn, ví dụ:Ind_ <TableName> _ <CộtName>"
+,Các bảng nên có một cột khóa chính.
+,"Các cột bảng phải có sẵn thông tin mô tả (ngoại trừ các cột kiểm toán như ngày được tạo, được tạo bởi, v.v.)"
+,Đối với mỗi nhật ký hoạt động bổ sung/cập nhật cơ sở dữ liệu nên được thêm vào.
+,Các chỉ mục bảng bắt buộc nên được tạo.
+,Kiểm tra xem dữ liệu có cam kết vào cơ sở dữ liệu chỉ khi hoạt động được hoàn thành thành công không.
+,Dữ liệu nên được quay lại trong trường hợp giao dịch thất bại.
+,"Tên cơ sở dữ liệu phải được đưa ra theo loại ứng dụng, tức là kiểm tra, UAT, hộp cát, trực tiếp (mặc dù đây không phải là tiêu chuẩn, nó hữu ích cho việc duy trì cơ sở dữ liệu)"
+,Tên logic cơ sở dữ liệu nên được đưa ra theo tên cơ sở dữ liệu (một lần nữa điều này không phải là tiêu chuẩn nhưng hữu ích cho việc bảo trì DB).
+,Các thủ tục được lưu trữ không nên được đặt tên bằng tiền tố là SP_
+,"Kiểm tra xem các giá trị cho các cột kiểm toán bảng (như ngày được tạo, được tạo bởi, được cập nhật, cập nhật bởi, bị xóa, xóa dữ liệu, bị xóa bởi, v.v.) được điền đúng."
+,Kiểm tra xem dữ liệu đầu vào không bị cắt ngắn trong khi lưu.Độ dài trường hiển thị cho người dùng trên trang và trong lược đồ cơ sở dữ liệu phải giống nhau.
+,"Kiểm tra các trường số với giá trị tối thiểu, tối đa và nổi."
+,Kiểm tra các trường số có giá trị âm (cho cả chấp nhận và không chấp nhận).
+,Kiểm tra xem nút radio và các tùy chọn danh sách thả xuống được lưu chính xác trong cơ sở dữ liệu.
+,Kiểm tra xem các trường cơ sở dữ liệu được thiết kế với kiểu dữ liệu và độ dài dữ liệu chính xác.
+,"Kiểm tra xem tất cả các ràng buộc bảng như khóa chính, khóa ngoại, vv được thực hiện chính xác."
+,Kiểm tra các quy trình được lưu trữ và kích hoạt với dữ liệu đầu vào mẫu.
+,Trường đầu vào dẫn đầu và không gian theo dõi nên được cắt ngắn trước khi cam kết dữ liệu vào cơ sở dữ liệu.
+,Không nên cho phép các giá trị null cho cột khóa chính.
+,Kiểm tra đường dẫn hình ảnh được tải lên.
+,Kiểm tra tải lên hình ảnh và thay đổi chức năng.
+,"Kiểm tra chức năng tải lên hình ảnh với các tệp hình ảnh của các tiện ích mở rộng khác nhau (ví dụ: JPEG, PNG, BMP, v.v.)"
+,Kiểm tra chức năng tải lên hình ảnh với hình ảnh có không gian hoặc bất kỳ ký tự đặc biệt nào khác trong tên tệp.
+,Kiểm tra tên trùng lặp tên ảnh tải lên.
+,Kiểm tra tải lên hình ảnh với kích thước hình ảnh lớn hơn kích thước tối đa cho phép.Thông báo lỗi thích hợp sẽ được hiển thị.
+,"Kiểm tra chức năng tải lên hình ảnh với các loại tệp khác ngoài hình ảnh (ví dụ: TXT, DOC, PDF, EXE, v.v.).Một thông báo lỗi thích hợp sẽ được hiển thị."
+,Kiểm tra xem hình ảnh có chiều cao và chiều rộng được chỉ định (nếu được xác định) được chấp nhận khác bị từ chối.
+,Thanh tiến trình tải lên hình ảnh sẽ xuất hiện cho hình ảnh kích thước lớn.
+,Kiểm tra xem chức năng nút Hủy có hoạt động giữa quá trình tải lên không.
+,Kiểm tra xem hộp thoại Chọn tệp chỉ hiển thị các tệp được hỗ trợ được liệt kê.
+,Kiểm tra nhiều hình ảnh tải lên chức năng.
+,Kiểm tra chất lượng hình ảnh sau khi tải lên.Chất lượng hình ảnh không nên được thay đổi sau khi tải lên.
+,Kiểm tra xem người dùng có thể sử dụng/xem các hình ảnh được tải lên không.
+,Mẫu email nên sử dụng CSS tiêu chuẩn cho tất cả các email.
+,Địa chỉ email nên được xác thực trước khi gửi email.
+,Các ký tự đặc biệt trong mẫu cơ thể email nên được xử lý đúng cách.
+,"Các ký tự cụ thể về ngôn ngữ (ví dụ, các ký tự tiếng Nga, tiếng Trung hoặc tiếng Đức) nên được xử lý đúng trong mẫu cơ thể email."
+,Chủ đề email không nên trống.
+,"Các trường giữ chỗ được sử dụng trong mẫu email phải được thay thế bằng các giá trị thực tế, ví dụ:{FirstName} {LastName} nên được thay thế bằng một cá nhân đầu tiên và họ đúng cách cho tất cả những người nhận."
+,Nếu các báo cáo có giá trị động được bao gồm trong phần thân email và dữ liệu báo cáo phải được tính toán chính xác.
+,Tên người gửi email không nên trống.
+,"Email nên được kiểm tra trong các ứng dụng email khác nhau như Outlook, Gmail, Hotmail, Yahoo!Thư, v.v."
+,Kiểm tra để gửi chức năng email bằng các trường CC và BCC.
+,Kiểm tra email văn bản đơn giản.
+,Kiểm tra email định dạng HTML.
+,"Kiểm tra tiêu đề email và chân trang cho logo của công ty, chính sách bảo mật và các liên kết khác."
+,Kiểm tra email với tệp đính kèm.
+,"Kiểm tra để gửi chức năng email đến người nhận danh sách đơn, đa hoặc phân phối."
+,Kiểm tra nếu một câu trả lời cho địa chỉ email là chính xác.
+,Kiểm tra để gửi khối lượng lớn của email.
+,Các tập tin sẽ được xuất trong phần mở rộng tệp thích hợp.
+,Tên tệp cho tệp Excel đã xuất theo tiêu chuẩn.
+,Định dạng ngày.
+,Định dạng số cho các giá trị số hoặc tiền tệ.
+,Tệp xuất nên có các cột có tên cột thích hợp.
+,Sắp xếp trang mặc định.
+,Định dạng dữ liệu tệp Excel.
+,Trang vs Tệp Excel đã xuất
+,Kiểm tra chức năng xuất khi phân trang được bật.
+,Export button
+,Chức năng xuất khẩu
+,Chức năng xuất cho các trang có chứa các ký tự đặc biệt.
+,Kiểm tra xem thời gian tải trang có nằm trong phạm vi chấp nhận được không.
+,Kiểm tra tải trang trên các kết nối chậm.
+,Thời gian phản hồi cho hành động.
+,Hiệu suất cơ sở dữ liệu
+,Kiểm tra thời gian thực hiện truy vấn cơ sở dữ liệu.
+,Kiểm tra kiểm tra tải của ứng dụng.
+,Kiểm tra kiểm tra căng thẳng của ứng dụng.
+,CPU và sử dụng bộ nhớ.
+,Kiểm tra các cuộc tấn công tiêm SQL.
+,Giao thức HTTPS.
+,Trang web duyên dáng
+,Thoát khỏi các ký tự đặc biệt trong đầu vào.
+,Thông báo lỗi
+,Tất cả các thông tin cần được chuyển qua một kênh được mã hóa.
+,Mật khẩu
+,Kiểm tra chức năng đăng xuất ứng dụng.
+,Kiểm tra các cuộc tấn công vũ lực.
+,Cookie.
+,Kiểm tra cookie phiên.
+,Mã thông báo phiên
+,Mật khẩu không nên được lưu trữ trong cookie.
+,Kiểm tra từ chối các cuộc tấn công dịch vụ.
+,Kiểm tra rò rỉ bộ nhớ.
+,Truy cập trái phép
+,Tệp mở rộng bàn giao
+,Trường nhạy
+,Tải lên tệp
+,Kiểm tra xem danh sách thư mục bị cấm.
+,Mật khẩu và các trường nhạy cảm khác nên được che dấu trong khi gõ.
+,Quên chức năng mật khẩu
+,Xác minh chức năng CAPTCHA.
+,Kiểm tra nếu các sự kiện quan trọng được đăng nhập vào các tệp nhật ký.
+,truy cập các đặc quyền
+,Môi trường để sản xuất
+,Phản hồi sẽ ổn khi xử lý
+,Phản hồi phải hợp lệ và có một cơ thể
