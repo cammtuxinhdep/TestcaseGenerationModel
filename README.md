@@ -5,7 +5,8 @@ Dataset tự tổng hợp để train mô hình sinh test case, lấy cảm hứ
 
 ## Nội dung
 - code/train.py: Code huấn luyện + merge + đóng gói (không chứa token).
-- model: Thư mục chứa các artifact nén (.zip) xuất từ Kaggle (merged model + LoRA adapter) phục vụ nộp đồ án/tái lập.
+- model: Thư mục chứa LoRA adapter phục vụ nộp đồ án/tái lập.
+- Model trực tiếp trên HuggingFace: [cammtuxinhdep/vit5_base](https://huggingface.co/cammtuxinhdep/vit5_base)
 
 ## Training Details
 - Model: VietAI/vit5-base (LoRA r=32, α=64, dropout=0.05 (target modules: q,k,v,o))
