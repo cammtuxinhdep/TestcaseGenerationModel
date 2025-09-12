@@ -1,0 +1,1249 @@
+﻿row_id,has_desc,has_inputs,has_steps,has_expected,synth_desc,synth_inputs,synth_steps,synth_expected,len_desc,len_inputs,len_steps,len_expected,prompt_preview,target_len
+0,1,1,1,1,0,0,0,0,76,8,96,172,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],471
+1,1,1,1,1,0,0,0,0,57,8,121,102,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],407
+2,1,1,1,1,0,0,0,0,90,8,121,147,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],485
+3,1,1,1,1,0,0,0,0,133,8,100,237,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],597
+4,1,1,1,1,0,0,0,0,32,8,81,165,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],405
+5,1,1,1,1,0,0,0,0,59,8,62,170,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],418
+6,1,1,1,1,0,0,0,0,74,8,36,262,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],499
+7,1,1,1,1,0,0,0,0,109,8,81,149,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],466
+8,1,1,1,1,0,0,0,0,70,20,118,150,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],477
+9,1,1,1,1,0,0,0,0,41,8,70,37,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],275
+10,1,1,1,1,0,0,0,0,72,34,54,101,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],380
+11,1,1,1,1,0,0,0,0,51,34,71,169,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],444
+12,1,1,1,1,0,0,0,0,60,34,65,127,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],405
+13,1,1,1,1,0,0,0,0,67,8,49,129,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],372
+14,1,1,1,1,0,0,0,0,60,8,87,83,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],357
+15,1,1,1,1,0,0,0,0,98,8,68,91,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],384
+16,1,1,1,1,0,0,0,0,37,8,61,66,Web/app; vai trò Người dùng; ưu tiên hiệu năng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],291
+17,1,1,1,1,0,0,0,0,86,8,107,115,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],435
+18,1,1,1,1,0,0,0,0,48,8,87,78,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],340
+19,1,1,1,1,0,0,0,0,49,8,67,68,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],311
+20,1,1,1,1,0,0,0,0,79,8,53,169,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],428
+21,1,1,1,1,0,0,0,0,72,8,52,85,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],336
+22,1,1,1,1,0,0,0,0,61,34,39,41,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],294
+23,1,1,1,1,0,0,0,0,56,8,44,103,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],330
+24,1,1,1,1,0,0,0,0,40,34,46,106,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],345
+25,1,1,1,1,0,0,0,0,60,8,29,119,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],335
+26,1,1,1,1,0,0,0,0,72,8,28,62,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],289
+27,1,1,1,1,0,0,0,0,48,8,58,48,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],281
+28,1,1,1,1,0,0,0,0,84,8,74,65,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],350
+29,1,1,1,1,0,0,0,0,101,8,47,62,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],337
+30,1,1,1,1,0,0,0,0,46,8,62,98,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],333
+31,1,1,1,1,0,0,0,0,57,8,85,67,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],336
+32,1,1,1,1,0,0,0,0,38,8,106,68,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],339
+33,1,1,1,1,0,0,0,0,75,8,38,159,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],399
+34,1,1,1,1,0,0,0,0,44,8,61,58,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],290
+35,1,1,1,1,0,0,0,0,29,8,40,62,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],258
+36,1,1,1,1,0,0,0,0,85,8,70,110,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],392
+37,1,1,1,1,0,0,0,0,49,8,68,73,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],317
+38,1,1,1,1,0,0,0,0,113,8,54,164,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],458
+39,1,1,1,1,0,0,0,0,113,8,74,88,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],402
+40,1,1,1,1,0,0,0,0,41,8,73,76,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],317
+41,1,1,1,1,0,0,0,0,43,8,67,86,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],323
+42,1,1,1,1,0,0,0,0,28,8,49,55,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],259
+43,1,1,1,1,0,0,0,0,48,8,73,75,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],323
+44,1,1,1,1,0,0,0,0,54,8,68,84,Web/app; vai trò Người dùng; ưu tiên hiệu năng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],333
+45,1,1,1,1,0,0,0,0,39,8,53,67,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],286
+46,1,1,1,1,0,0,0,0,35,8,59,88,Web/app; vai trò Người dùng - Tạo test case cho phi chức năng - trải nghiệm (tổng quát) [cả hai],309
+47,1,1,1,1,0,0,0,0,44,8,55,79,Web/app; vai trò Người dùng - Tạo test case cho lọc - chức năng (tổng quát) [cả hai],305
+48,1,1,1,1,0,0,0,0,49,45,56,69,Web/app; vai trò Người dùng; tìm kiếm; phân trang & bộ lọc (nếu có) - Tạo test case cho lọc - chức năng (tổng quát) [cả …,338
+49,1,1,1,1,0,0,0,0,37,8,108,155,Web/app; vai trò Người dùng - Tạo test case cho lọc - chức năng (tổng quát) [cả hai],427
+50,1,1,1,1,0,0,0,0,86,26,75,97,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; bộ lọc hỗ trợ tiêu chí bắt buộc/không bắt buộc; giữ nguyên…,403
+51,1,1,1,1,0,0,0,0,107,19,114,63,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; bộ lọc hỗ trợ tiêu chí bắt buộc/không bắt buộc; giữ nguyên…,422
+52,1,1,1,1,0,0,0,0,96,8,106,62,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",391
+53,1,1,1,1,0,0,0,0,104,8,95,64,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",390
+54,1,1,1,1,0,0,0,0,51,8,88,42,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",308
+55,1,1,1,1,0,0,0,0,79,8,82,53,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",341
+56,1,1,1,1,0,0,0,0,56,8,79,57,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",319
+57,1,1,1,1,0,0,0,0,62,8,79,53,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",321
+58,1,1,1,1,0,0,0,0,80,8,79,48,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",334
+59,1,1,1,1,0,0,0,0,102,8,81,51,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",361
+60,1,1,1,1,0,0,0,0,69,8,87,36,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",319
+61,1,1,1,1,0,0,0,0,83,8,91,57,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",358
+62,1,1,1,1,0,0,0,0,75,8,93,53,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",348
+63,1,1,1,1,0,0,0,0,59,8,75,45,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",306
+64,1,1,1,1,0,0,0,0,97,8,98,69,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",391
+65,1,1,1,1,0,0,0,0,104,8,97,54,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",382
+66,1,1,1,1,0,0,0,0,96,8,71,40,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",334
+67,1,1,1,1,0,0,0,0,146,8,85,45,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",403
+68,1,1,1,1,0,0,0,0,143,8,80,54,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",404
+69,1,1,1,1,0,0,0,0,63,8,76,54,"Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge; hộp tìm kiếm có spinner tải, đếm kết quả, và áp dụng tham …",320
+70,1,1,1,1,0,0,0,0,55,8,66,46,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - trải nghiệm (tổng quát)…,294
+71,1,1,1,1,0,0,0,0,56,8,64,48,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - trải nghiệm (tổng quát)…,295
+72,1,1,1,1,0,0,0,0,73,8,66,62,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - trải nghiệm (tổng quát)…,328
+73,1,1,1,1,0,0,0,0,73,8,66,30,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - trải nghiệm (tổng quát)…,296
+74,1,1,1,1,0,0,0,0,113,8,76,60,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - trải nghiệm (tổng quát)…,376
+75,1,1,1,1,0,0,0,0,56,8,47,43,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - trải nghiệm (tổng quát)…,273
+76,1,1,1,1,0,0,0,0,44,8,51,33,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - trải nghiệm (tổng quát)…,255
+77,1,1,1,1,0,0,0,0,51,8,71,62,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - trải nghiệm (tổng quát)…,311
+78,1,1,1,1,0,0,0,0,44,8,57,32,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - trải nghiệm (tổng quát)…,260
+79,1,1,1,1,0,0,0,0,93,8,59,41,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,320
+80,1,1,1,1,0,0,0,0,61,8,104,41,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,333
+81,1,1,1,1,0,0,0,0,34,8,68,38,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,267
+82,1,1,1,1,0,0,0,0,48,8,90,35,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,300
+83,1,1,1,1,0,0,0,0,34,8,79,34,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,274
+84,1,1,1,1,0,0,0,0,40,8,63,24,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,254
+85,1,1,1,1,0,0,0,0,78,8,88,32,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,325
+86,1,1,1,1,0,0,0,0,38,8,86,26,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,277
+87,1,1,1,1,0,0,0,0,100,8,78,42,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,347
+88,1,1,1,1,0,0,0,0,61,8,85,21,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,294
+89,1,1,1,1,0,0,0,0,53,8,78,30,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,288
+90,1,1,1,1,0,0,0,0,62,8,84,36,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,309
+91,1,1,1,1,0,0,0,0,62,8,88,37,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,314
+92,1,1,1,1,0,0,0,0,47,8,83,31,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,288
+93,1,1,1,1,0,0,0,0,60,8,64,25,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,276
+94,1,1,1,1,0,0,0,0,59,8,69,56,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,311
+95,1,1,1,1,0,0,0,0,36,8,86,57,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,306
+96,1,1,1,1,0,0,0,0,97,8,48,36,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,308
+97,1,1,1,1,0,0,0,0,95,8,81,36,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,339
+98,1,1,1,1,0,0,0,0,90,8,92,33,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,342
+99,1,1,1,1,0,0,0,0,72,8,94,38,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,331
+100,1,1,1,1,0,0,0,0,98,8,86,39,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,350
+101,1,1,1,1,0,0,0,0,54,8,85,35,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - dữ liệu (tổng quát) [cả…,301
+102,1,1,1,1,0,0,0,0,40,8,61,27,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,255
+103,1,1,1,1,0,0,0,0,47,8,62,43,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,279
+104,1,1,1,1,0,0,0,0,65,8,33,33,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,258
+105,1,1,1,1,0,0,0,0,102,8,78,31,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,338
+106,1,1,1,1,0,0,0,0,38,8,78,35,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,278
+107,1,1,1,1,0,0,0,0,57,8,79,27,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,290
+108,1,1,1,1,0,0,0,0,62,8,42,27,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,258
+109,1,1,1,1,0,0,0,0,68,8,89,41,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,325
+110,1,1,1,1,0,0,0,0,50,8,73,35,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,285
+111,1,1,1,1,0,0,0,0,73,8,51,48,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,299
+112,1,1,1,1,0,0,0,0,73,8,71,48,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,319
+113,1,1,1,1,0,0,0,0,41,8,79,42,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,289
+114,1,1,1,1,0,0,0,0,44,8,75,32,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,278
+115,1,1,1,1,0,0,0,0,74,8,56,62,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho tải lên hình ảnh - chức năng (tổng quát…,319
+116,1,1,1,1,0,0,0,0,57,8,87,29,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],300
+117,1,1,1,1,0,0,0,0,51,8,62,44,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],284
+118,1,1,1,1,0,0,0,0,66,8,77,34,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],304
+119,1,1,1,1,0,0,0,0,60,8,44,34,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],265
+120,1,1,1,1,0,0,0,0,28,8,66,55,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],276
+121,1,1,1,1,0,0,0,0,66,8,66,49,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],308
+122,1,1,1,1,0,0,0,0,56,8,89,39,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],311
+123,1,1,1,1,0,0,0,0,35,8,89,34,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],285
+124,1,1,1,1,0,0,0,0,52,8,42,39,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],260
+125,1,1,1,1,0,0,0,0,43,8,52,39,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],261
+126,1,1,1,1,0,0,0,0,31,8,81,24,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],263
+127,1,1,1,1,0,0,0,0,29,8,72,24,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],252
+128,1,1,1,1,0,0,0,0,36,8,61,40,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],264
+129,1,1,1,1,0,0,0,0,31,8,81,30,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],269
+130,1,1,1,1,0,0,0,0,40,8,82,42,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],291
+131,1,1,1,1,0,0,0,0,33,8,79,22,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],261
+132,1,1,1,1,0,0,0,0,33,8,87,36,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho email - chức năng (tổng quát) [cả hai],283
+133,1,1,1,1,0,0,0,0,53,8,78,31,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,289
+134,1,1,1,1,0,0,0,0,37,8,79,26,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,269
+135,1,1,1,1,0,0,0,0,14,8,78,28,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,247
+136,1,1,1,1,0,0,0,0,40,8,54,23,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,244
+137,1,1,1,1,0,0,0,0,44,8,89,21,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,281
+138,1,1,1,1,0,0,0,0,22,8,82,34,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,265
+139,1,1,1,1,0,0,0,0,27,8,70,23,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,247
+140,1,1,1,1,0,0,0,0,26,8,76,39,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,268
+141,1,1,1,1,0,0,0,0,38,8,58,29,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,252
+142,1,1,1,1,0,0,0,0,8,8,70,33,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,238
+143,1,1,1,1,0,0,0,0,64,8,125,95,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,411
+144,1,1,1,1,0,0,0,0,38,8,87,29,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho xuất excel - chức năng (tổng quát) [cả …,281
+145,1,1,1,1,0,0,0,0,75,8,72,115,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - hiệu năng (tổng quát) […,389
+146,1,1,1,1,0,0,0,0,41,8,83,75,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - hiệu năng (tổng quát) […,326
+147,1,1,1,1,0,0,0,0,33,8,116,97,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - hiệu năng (tổng quát) […,373
+148,1,1,1,1,0,0,0,0,23,8,78,43,Ứng dụng Web/App; vai trò Người dùng; môi trường Chrome/Edge - Tạo test case cho phi chức năng - hiệu năng (tổng quát) […,271
+149,1,1,1,1,0,0,0,0,28,57,91,33,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",328
+150,1,1,1,1,0,0,0,0,30,69,64,30,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",312
+151,1,1,1,1,0,0,0,0,49,69,125,108,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",470
+152,1,1,1,1,0,0,0,0,13,8,66,34,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",240
+153,1,1,1,1,0,0,0,0,31,8,92,32,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",282
+154,1,1,1,1,0,0,0,0,15,8,81,20,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",243
+155,1,1,1,1,0,0,0,0,28,8,70,33,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",258
+156,1,1,1,1,0,0,0,0,37,8,88,35,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",287
+157,1,1,1,1,0,0,0,0,13,8,106,58,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",304
+158,1,1,1,1,0,0,0,0,28,8,92,29,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",276
+159,1,1,1,1,0,0,0,0,8,8,86,35,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",256
+160,1,1,1,1,0,0,0,0,29,8,88,127,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",371
+161,1,1,1,1,0,0,0,0,15,8,84,35,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",261
+162,1,1,1,1,0,0,0,0,7,8,80,54,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",268
+163,1,1,1,1,0,0,0,0,22,8,132,87,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",368
+164,1,1,1,1,0,0,0,0,18,8,89,29,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",263
+165,1,1,1,1,0,0,0,0,45,8,80,45,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",297
+166,1,1,1,1,0,0,0,0,15,8,92,33,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",267
+167,1,1,1,1,0,0,0,0,12,8,86,18,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",243
+168,1,1,1,1,0,0,0,0,18,8,91,19,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",255
+169,1,1,1,1,0,0,0,0,20,8,79,14,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",240
+170,1,1,1,1,0,0,0,0,11,8,94,20,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",252
+171,1,1,1,1,0,0,0,0,11,69,80,25,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",304
+172,1,1,1,1,0,0,0,0,24,8,89,16,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",256
+173,1,1,1,1,0,0,0,0,67,8,123,100,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",417
+174,1,1,1,1,0,0,0,0,24,8,87,115,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",353
+175,1,1,1,1,0,0,0,0,16,8,94,83,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",320
+176,1,1,1,1,0,0,0,0,26,8,99,30,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",282
+177,1,1,1,1,0,0,0,0,18,8,107,47,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",299
+178,1,1,1,1,0,0,0,0,46,8,92,67,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,332
+179,1,1,1,1,0,0,0,0,60,8,109,56,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,352
+180,1,1,1,1,0,0,0,0,60,8,87,62,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,336
+181,1,1,1,1,0,0,0,0,47,8,150,89,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,413
+182,1,1,1,1,0,0,0,0,57,8,126,107,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,417
+183,1,1,1,1,0,0,0,0,58,8,115,75,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,375
+184,1,1,1,1,0,0,0,0,58,8,115,74,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,374
+185,1,1,1,1,0,0,0,0,53,8,120,66,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,366
+186,1,1,1,1,0,0,0,0,58,8,113,88,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,386
+187,1,1,1,1,0,0,0,0,49,8,105,63,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,344
+188,1,1,1,1,0,0,0,0,49,8,103,62,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,341
+189,1,1,1,1,0,0,0,0,45,8,133,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,352
+190,1,1,1,1,0,0,0,0,48,8,118,56,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,349
+191,1,1,1,1,0,0,0,0,59,8,96,77,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,359
+192,1,1,1,1,0,0,0,0,64,8,138,83,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,412
+193,1,1,1,1,0,0,0,0,42,8,81,60,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,310
+194,1,1,1,1,0,0,0,0,42,8,81,60,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,310
+195,1,1,1,1,0,0,0,0,22,8,91,77,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,317
+196,1,1,1,1,0,0,0,0,17,8,89,72,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,305
+197,1,1,1,1,0,0,0,0,47,8,109,102,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,385
+198,1,1,1,1,0,0,0,0,43,8,103,56,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,329
+199,1,1,1,1,0,0,0,0,57,8,103,63,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,350
+200,1,1,1,1,0,0,0,0,52,8,116,79,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,374
+201,1,1,1,1,0,0,0,0,52,8,103,64,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,346
+202,1,1,1,1,0,0,0,0,37,8,88,66,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,318
+203,1,1,1,1,0,0,0,0,76,8,88,74,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,365
+204,1,1,1,1,0,0,0,0,62,8,96,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,337
+205,1,1,1,1,0,0,0,0,43,8,95,59,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,324
+206,1,1,1,1,0,0,0,0,64,8,116,63,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,370
+207,1,1,1,1,0,0,0,0,39,8,81,60,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,307
+208,1,1,1,1,0,0,0,0,59,69,115,48,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",410
+209,1,1,1,1,0,0,0,0,71,69,111,81,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",451
+210,1,1,1,1,0,0,0,0,64,8,121,59,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",371
+211,1,1,1,1,0,0,0,0,60,8,101,71,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",359
+212,1,1,1,1,0,0,0,0,69,8,123,59,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",378
+213,1,1,1,1,0,0,0,0,43,8,105,83,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",358
+214,1,1,1,1,0,0,0,0,52,8,86,58,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",323
+215,1,1,1,1,0,0,0,0,50,69,96,60,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",394
+216,1,1,1,1,0,0,0,0,46,8,124,63,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",360
+217,1,1,1,1,0,0,0,0,58,69,105,52,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",403
+218,1,1,1,1,0,0,0,0,78,8,80,74,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",359
+219,1,1,1,1,0,0,0,0,73,8,78,64,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",342
+220,1,1,1,1,0,0,0,0,64,8,95,52,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",338
+221,1,1,1,1,0,0,0,0,62,8,118,56,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",363
+222,1,1,1,1,0,0,0,0,51,69,122,64,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng, đo SLA/latency/throughput, môi …",425
+223,1,1,1,1,0,0,0,0,93,8,124,69,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",413
+224,1,1,1,1,0,0,0,0,71,8,116,64,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",378
+225,1,1,1,1,0,0,0,0,60,8,106,74,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",367
+226,1,1,1,1,0,0,0,0,69,69,124,64,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",445
+227,1,1,1,1,0,0,0,0,70,69,116,77,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",451
+228,1,1,1,1,0,0,0,0,80,8,99,86,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",392
+229,1,1,1,1,0,0,0,0,73,8,132,66,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",398
+230,1,1,1,1,0,0,0,0,78,8,119,74,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",398
+231,1,1,1,1,0,0,0,0,77,8,143,58,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",405
+232,1,1,1,1,0,0,0,0,59,8,98,60,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",344
+233,1,1,1,1,0,0,0,0,70,8,124,76,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",397
+234,1,1,1,1,0,0,0,0,48,8,108,69,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",352
+235,1,1,1,1,0,0,0,0,57,8,70,59,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",313
+236,1,1,1,1,0,0,0,0,56,8,119,74,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",376
+237,1,1,1,1,0,0,0,0,72,8,126,65,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, tuân thủ chính sách truy cập/ghi …",390
+238,1,1,1,1,0,0,0,0,65,8,75,61,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,328
+239,1,1,1,1,0,0,0,0,46,8,84,32,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,289
+240,1,1,1,1,0,0,0,0,39,8,77,60,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,303
+241,1,1,1,1,0,0,0,0,56,69,85,43,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,372
+242,1,1,1,1,0,0,0,0,47,8,106,50,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,330
+243,1,1,1,1,0,0,0,0,61,8,85,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,325
+244,1,1,1,1,0,0,0,0,37,8,67,62,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,293
+245,1,1,1,1,0,0,0,0,53,8,103,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,335
+246,1,1,1,1,0,0,0,0,54,8,119,61,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,361
+247,1,1,1,1,0,0,0,0,70,8,56,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,291
+248,1,1,1,1,0,0,0,0,50,8,112,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,335
+249,1,1,1,1,0,0,0,0,57,30,108,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,360
+250,1,1,1,1,0,0,0,0,50,30,86,50,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,335
+251,1,1,1,1,0,0,0,0,35,8,81,71,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,314
+252,1,1,1,1,0,0,0,0,46,8,69,45,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,287
+253,1,1,1,1,0,0,0,0,81,30,93,75,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,398
+254,1,1,1,1,0,0,0,0,60,30,79,45,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,333
+255,1,1,1,1,0,0,0,0,58,30,68,53,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,328
+256,1,1,1,1,0,0,0,0,65,30,77,47,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,338
+257,1,1,1,1,0,0,0,0,60,30,96,78,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,383
+258,1,1,1,1,0,0,0,0,70,30,83,66,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,368
+259,1,1,1,1,0,0,0,0,71,30,99,49,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,368
+260,1,1,1,1,0,0,0,0,69,30,76,61,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,355
+261,1,1,1,1,0,0,0,0,69,30,80,42,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,340
+262,1,1,1,1,0,0,0,0,60,30,80,37,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,326
+263,1,1,1,1,0,0,0,0,81,30,100,45,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,375
+264,1,1,1,1,0,0,0,0,62,30,99,45,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,355
+265,1,1,1,1,0,0,0,0,81,8,91,62,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,361
+266,1,1,1,1,0,0,0,0,57,30,76,50,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,332
+267,1,1,1,1,0,0,0,0,55,8,101,60,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,343
+268,1,1,1,1,0,0,0,0,67,27,93,61,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,367
+269,1,1,1,1,0,0,0,0,52,27,93,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,332
+270,1,1,1,1,0,0,0,0,34,8,60,62,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,283
+271,1,1,1,1,0,0,0,0,37,8,63,62,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,289
+272,1,1,1,1,0,0,0,0,52,8,70,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,304
+273,1,1,1,1,0,0,0,0,58,8,92,63,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,340
+274,1,1,1,1,0,0,0,0,52,8,67,70,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,316
+275,1,1,1,1,0,0,0,0,48,8,75,36,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,286
+276,1,1,1,1,0,0,0,0,45,8,71,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,294
+277,1,1,1,1,0,0,0,0,65,8,81,53,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,326
+278,1,1,1,1,0,0,0,0,47,8,80,56,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,310
+279,1,1,1,1,0,0,0,0,55,8,80,58,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,320
+280,1,1,1,1,0,0,0,0,49,8,72,49,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,297
+281,1,1,1,1,0,0,0,0,41,8,57,53,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,278
+282,1,1,1,1,0,0,0,0,51,8,63,31,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,272
+283,1,1,1,1,0,0,0,0,35,8,94,37,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,293
+284,1,1,1,1,0,0,0,0,34,8,74,31,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,266
+285,1,1,1,1,0,0,0,0,32,8,60,26,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,245
+286,1,1,1,1,0,0,0,0,29,8,76,30,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,262
+287,1,1,1,1,0,0,0,0,33,8,100,31,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,291
+288,1,1,1,1,0,0,0,0,61,8,86,58,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,332
+289,1,1,1,1,0,0,0,0,49,8,89,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,311
+290,1,1,1,1,0,0,0,0,30,8,64,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,273
+291,1,1,1,1,0,0,0,0,28,8,91,35,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,281
+292,1,1,1,1,0,0,0,0,33,27,74,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,299
+293,1,1,1,1,0,0,0,0,43,8,66,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,275
+294,1,1,1,1,0,0,0,0,55,8,97,42,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,321
+295,1,1,1,1,0,0,0,0,42,8,77,49,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,295
+296,1,1,1,1,0,0,0,0,41,8,78,67,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,313
+297,1,1,1,1,0,0,0,0,33,8,76,58,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,294
+298,1,1,1,1,0,0,0,0,51,8,76,60,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,314
+299,1,1,1,1,0,0,0,0,51,27,69,62,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,328
+300,1,1,1,1,0,0,0,0,36,8,72,44,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,279
+301,1,1,1,1,0,0,0,0,50,27,83,73,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,352
+302,1,1,1,1,0,0,0,0,45,27,70,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,307
+303,1,1,1,1,0,0,0,0,45,8,73,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,283
+304,1,1,1,1,0,0,0,0,31,8,82,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,279
+305,1,1,1,1,0,0,0,0,32,8,105,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,319
+306,1,1,1,1,0,0,0,0,41,8,100,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,314
+307,1,1,1,1,0,0,0,0,69,8,70,53,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,319
+308,1,1,1,1,0,0,0,0,25,8,73,45,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,270
+309,1,1,1,1,0,0,0,0,43,8,99,36,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,305
+310,1,1,1,1,0,0,0,0,51,8,101,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,326
+311,1,1,1,1,0,0,0,0,44,27,59,43,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,292
+312,1,1,1,1,0,0,0,0,33,8,59,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,258
+313,1,1,1,1,0,0,0,0,46,8,69,35,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,277
+314,1,1,1,1,0,0,0,0,43,8,71,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,288
+315,1,1,1,1,0,0,0,0,42,8,71,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,280
+316,1,1,1,1,0,0,0,0,24,8,65,43,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,259
+317,1,1,1,1,0,0,0,0,52,8,110,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,328
+318,1,1,1,1,0,0,0,0,75,27,79,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,347
+319,1,1,1,1,0,0,0,0,57,27,67,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,321
+320,1,1,1,1,0,0,0,0,61,8,101,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,327
+321,1,1,1,1,0,0,0,0,35,8,65,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,274
+322,1,1,1,1,0,0,0,0,51,8,66,42,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,286
+323,1,1,1,1,0,0,0,0,61,8,78,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,304
+324,1,1,1,1,0,0,0,0,58,17,70,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,310
+325,1,1,1,1,0,0,0,0,47,8,62,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,275
+326,1,1,1,1,0,0,0,0,40,27,77,64,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,327
+327,1,1,1,1,0,0,0,0,35,8,68,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,276
+328,1,1,1,1,0,0,0,0,56,8,85,62,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,330
+329,1,1,1,1,0,0,0,0,47,8,64,67,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,305
+330,1,1,1,1,0,0,0,0,50,8,70,54,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,301
+331,1,1,1,1,0,0,0,0,38,27,63,37,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,284
+332,1,1,1,1,0,0,0,0,53,27,113,61,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,373
+333,1,1,1,1,0,0,0,0,64,27,81,65,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,356
+334,1,1,1,1,0,0,0,0,66,8,78,58,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",329
+335,1,1,1,1,0,0,0,0,50,8,63,42,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",282
+336,1,1,1,1,0,0,0,0,51,8,106,40,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",324
+337,1,1,1,1,0,0,0,0,38,8,54,53,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",272
+338,1,1,1,1,0,0,0,0,32,8,109,50,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",318
+339,1,1,1,1,0,0,0,0,40,8,91,57,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",315
+340,1,1,1,1,0,0,0,0,55,27,63,60,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",324
+341,1,1,1,1,0,0,0,0,47,8,100,45,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",319
+342,1,1,1,1,0,0,0,0,49,11,71,67,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",317
+343,1,1,1,1,0,0,0,0,58,8,88,63,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",336
+344,1,1,1,1,0,0,0,0,43,27,69,55,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",313
+345,1,1,1,1,0,0,0,0,45,27,91,64,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",346
+346,1,1,1,1,0,0,0,0,51,27,102,49,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",348
+347,1,1,1,1,0,0,0,0,53,27,80,49,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",328
+348,1,1,1,1,0,0,0,0,62,8,86,56,"Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật, kiểm soát truy cập & ghi log - Tạ…",331
+349,1,1,1,1,0,0,0,0,54,8,98,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,331
+350,1,1,1,1,0,0,0,0,51,8,67,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,293
+351,1,1,1,1,0,0,0,0,66,8,75,54,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,322
+352,1,1,1,1,0,0,0,0,32,8,85,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,299
+353,1,1,1,1,0,0,0,0,34,27,71,35,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,286
+354,1,1,1,1,0,0,0,0,36,8,84,45,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,292
+355,1,1,1,1,0,0,0,0,48,8,81,43,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,299
+356,1,1,1,1,0,0,0,0,40,8,59,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,277
+357,1,1,1,1,0,0,0,0,48,8,100,60,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,335
+358,1,1,1,1,0,0,0,0,49,8,81,56,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,313
+359,1,1,1,1,0,0,0,0,40,8,81,56,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,304
+360,1,1,1,1,0,0,0,0,53,8,72,33,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,285
+361,1,1,1,1,0,0,0,0,27,8,86,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,281
+362,1,1,1,1,0,0,0,0,47,8,80,44,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,298
+363,1,1,1,1,0,0,0,0,48,8,63,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,276
+364,1,1,1,1,0,0,0,0,48,8,57,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,279
+365,1,1,1,1,0,0,0,0,47,11,101,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,318
+366,1,1,1,1,0,0,0,0,60,8,86,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,312
+367,1,1,1,1,0,0,0,0,40,11,68,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,279
+368,1,1,1,1,0,0,0,0,33,27,65,30,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,274
+369,1,1,1,1,0,0,0,0,40,8,82,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,295
+370,1,1,1,1,0,0,0,0,61,27,75,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,320
+371,1,1,1,1,0,0,0,0,53,8,79,49,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,308
+372,1,1,1,1,0,0,0,0,30,8,92,44,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,293
+373,1,1,1,1,0,0,0,0,33,8,72,67,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,299
+374,1,1,1,1,0,0,0,0,48,8,75,45,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,295
+375,1,1,1,1,0,0,0,0,42,8,74,68,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,311
+376,1,1,1,1,0,0,0,0,43,11,58,50,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,281
+377,1,1,1,1,0,0,0,0,34,8,58,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,266
+378,1,1,1,1,0,0,0,0,53,33,76,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,329
+379,1,1,1,1,0,0,0,0,36,27,92,33,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,307
+380,1,1,1,1,0,0,0,0,43,27,63,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,293
+381,1,1,1,1,0,0,0,0,52,27,97,38,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,333
+382,1,1,1,1,0,0,0,0,56,8,72,40,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,295
+383,1,1,1,1,0,0,0,0,45,8,66,48,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,286
+384,1,1,1,1,0,0,0,0,43,8,66,35,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,271
+385,1,1,1,1,0,0,0,0,48,27,71,49,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,314
+386,1,1,1,1,0,0,0,0,43,8,115,43,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,328
+387,1,1,1,1,0,0,0,0,44,17,101,34,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,315
+388,1,1,1,1,0,0,0,0,41,8,95,42,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,305
+389,1,1,1,1,0,0,0,0,45,8,88,49,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,309
+390,1,1,1,1,0,0,0,0,40,17,103,30,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,309
+391,1,1,1,1,0,0,0,0,47,8,77,29,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,280
+392,1,1,1,1,0,0,0,0,54,8,69,26,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,276
+393,1,1,1,1,0,0,0,0,54,8,88,38,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,307
+394,1,1,1,1,0,0,0,0,32,8,58,29,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,246
+395,1,1,1,1,0,0,0,0,33,11,103,32,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,298
+396,1,1,1,1,0,0,0,0,42,8,45,24,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,238
+397,1,1,1,1,0,0,0,0,37,8,76,46,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,286
+398,1,1,1,1,0,0,0,0,53,8,73,40,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,293
+399,1,1,1,1,0,0,0,0,47,8,88,39,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,301
+400,1,1,1,1,0,0,0,0,39,8,96,37,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,299
+401,1,1,1,1,0,0,0,0,42,8,59,31,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,259
+402,1,1,1,1,0,0,0,0,48,8,67,32,Hệ thống web; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quát) …,274
+403,1,1,1,1,0,0,0,0,36,27,69,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,292
+404,1,1,1,1,0,0,0,0,49,8,94,49,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,319
+405,1,1,1,1,0,0,0,0,31,8,93,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,298
+406,1,1,1,1,0,0,0,0,41,27,69,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,297
+407,1,1,1,1,0,0,0,0,53,8,67,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,295
+408,1,1,1,1,0,0,0,0,19,8,72,44,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,262
+409,1,1,1,1,0,0,0,0,54,27,56,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,308
+410,1,1,1,1,0,0,0,0,56,27,63,66,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,331
+411,1,1,1,1,0,0,0,0,46,8,100,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,321
+412,1,1,1,1,0,0,0,0,51,8,104,37,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,319
+413,1,1,1,1,0,0,0,0,46,8,83,43,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,299
+414,1,1,1,1,0,0,0,0,43,8,106,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,316
+415,1,1,1,1,0,0,0,0,48,8,73,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,288
+416,1,1,1,1,0,0,0,0,53,8,95,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,314
+417,1,1,1,1,0,0,0,0,64,8,77,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,306
+418,1,1,1,1,0,0,0,0,45,8,110,45,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,327
+419,1,1,1,1,0,0,0,0,51,8,79,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,309
+420,1,1,1,1,0,0,0,0,41,8,64,45,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,277
+421,1,1,1,1,0,0,0,0,47,8,80,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,292
+422,1,1,1,1,0,0,0,0,49,11,96,34,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,309
+423,1,1,1,1,0,0,0,0,40,8,66,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,271
+424,1,1,1,1,0,0,0,0,37,8,83,35,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,282
+425,1,1,1,1,0,0,0,0,47,8,37,33,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,244
+426,1,1,1,1,0,0,0,0,32,27,95,36,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,309
+427,1,1,1,1,0,0,0,0,40,27,90,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,314
+428,1,1,1,1,0,0,0,0,60,8,52,30,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,269
+429,1,1,1,1,0,0,0,0,34,27,66,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,294
+430,1,1,1,1,0,0,0,0,41,8,97,57,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,322
+431,1,1,1,1,0,0,0,0,51,30,94,66,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,360
+432,1,1,1,1,0,0,0,0,37,8,92,83,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,339
+433,1,1,1,1,0,0,0,0,50,8,79,72,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,328
+434,1,1,1,1,0,0,0,0,27,8,87,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,296
+435,1,1,1,1,0,0,0,0,19,8,76,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,274
+436,1,1,1,1,0,0,0,0,46,8,97,84,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,354
+437,1,1,1,1,0,0,0,0,49,8,94,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,317
+438,1,1,1,1,0,0,0,0,38,11,70,78,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,316
+439,1,1,1,1,0,0,0,0,33,11,117,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,335
+440,1,1,1,1,0,0,0,0,32,8,89,74,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,322
+441,1,1,1,1,0,0,0,0,25,8,73,59,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,284
+442,1,1,1,1,0,0,0,0,55,8,86,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,316
+443,1,1,1,1,0,0,0,0,35,16,75,57,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,302
+444,1,1,1,1,0,0,0,0,42,8,79,63,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,311
+445,1,1,1,1,0,0,0,0,32,8,87,54,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,300
+446,1,1,1,1,0,0,0,0,32,8,98,42,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,299
+447,1,1,1,1,0,0,0,0,39,8,72,56,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,294
+448,1,1,1,1,0,0,0,0,32,8,81,61,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,301
+449,1,1,1,1,0,0,0,0,35,8,86,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,300
+450,1,1,1,1,0,0,0,0,40,8,89,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,295
+451,1,1,1,1,0,0,0,0,46,11,103,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,330
+452,1,1,1,1,0,0,0,0,43,8,66,49,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,285
+453,1,1,1,1,0,0,0,0,20,8,105,35,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,287
+454,1,1,1,1,0,0,0,0,50,8,76,50,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,303
+455,1,1,1,1,0,0,0,0,29,8,90,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,287
+456,1,1,1,1,0,0,0,0,39,8,67,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,280
+457,1,1,1,1,0,0,0,0,27,11,68,50,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,275
+458,1,1,1,1,0,0,0,0,28,8,100,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,301
+459,1,1,1,1,0,0,0,0,46,8,82,53,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,308
+460,1,1,1,1,0,0,0,0,31,8,80,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,276
+461,1,1,1,1,0,0,0,0,18,8,99,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,295
+462,1,1,1,1,0,0,0,0,27,8,74,54,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,282
+463,1,1,1,1,0,0,0,0,28,8,58,64,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,277
+464,1,1,1,1,0,0,0,0,19,8,78,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,279
+465,1,1,1,1,0,0,0,0,21,8,99,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,293
+466,1,1,1,1,0,0,0,0,32,33,93,36,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,313
+467,1,1,1,1,0,0,0,0,28,8,87,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,290
+468,1,1,1,1,0,0,0,0,22,11,65,61,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,278
+469,1,1,1,1,0,0,0,0,18,8,82,64,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,291
+470,1,1,1,1,0,0,0,0,53,8,88,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,315
+471,1,1,1,1,0,0,0,0,39,8,102,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,306
+472,1,1,1,1,0,0,0,0,13,8,76,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,271
+473,1,1,1,1,0,0,0,0,21,8,72,54,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,274
+474,1,1,1,1,0,0,0,0,13,8,84,54,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,278
+475,1,1,1,1,0,0,0,0,22,8,82,42,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,273
+476,1,1,1,1,0,0,0,0,28,8,122,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,317
+477,1,1,1,1,0,0,0,0,28,8,70,64,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,289
+478,1,1,1,1,0,0,0,0,29,11,100,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,305
+479,1,1,1,1,0,0,0,0,25,8,76,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,279
+480,1,1,1,1,0,0,0,0,18,8,77,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,263
+481,1,1,1,1,0,0,0,0,21,8,84,44,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,276
+482,1,1,1,1,0,0,0,0,15,8,50,42,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,234
+483,1,1,1,1,0,0,0,0,11,8,76,58,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,272
+484,1,1,1,1,0,0,0,0,19,8,112,33,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,291
+485,1,1,1,1,0,0,0,0,32,8,96,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,306
+486,1,1,1,1,0,0,0,0,51,8,125,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,342
+487,1,1,1,1,0,0,0,0,30,8,118,44,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,319
+488,1,1,1,1,0,0,0,0,19,8,53,62,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,261
+489,1,1,1,1,0,0,0,0,29,8,68,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,265
+490,1,1,1,1,0,0,0,0,19,30,63,35,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,266
+491,1,1,1,1,0,0,0,0,22,8,92,24,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,265
+492,1,1,1,1,0,0,0,0,26,8,87,31,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,271
+493,1,1,1,1,0,0,0,0,15,8,97,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,279
+494,1,1,1,1,0,0,0,0,33,30,60,43,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,285
+495,1,1,1,1,0,0,0,0,39,30,93,16,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,297
+496,1,1,1,1,0,0,0,0,31,30,85,16,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,281
+497,1,1,1,1,0,0,0,0,35,30,87,31,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,302
+498,1,1,1,1,0,0,0,0,38,8,77,28,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,270
+499,1,1,1,1,0,0,0,0,13,8,86,37,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,263
+500,1,1,1,1,0,0,0,0,24,8,70,37,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,258
+501,1,1,1,1,0,0,0,0,31,8,91,44,Hệ thống ứng dụng; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng nhập - trải nghiệm (tổng…,293
+502,1,1,1,1,0,0,0,0,29,8,91,22,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,269
+503,1,1,1,1,0,0,0,0,36,8,104,28,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,295
+504,1,1,1,1,0,0,0,0,32,8,74,30,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,263
+505,1,1,1,1,0,0,0,0,28,8,92,18,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,265
+506,1,1,1,1,0,0,0,0,26,8,91,28,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,272
+507,1,1,1,1,0,0,0,0,46,8,73,28,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên bảo mật; kiểm soát truy cập; ghi log - Tạo…,274
+508,1,1,1,1,0,0,0,0,31,8,95,43,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho đăng ký - trải nghiệm (tổng quá…,296
+509,1,1,1,1,0,0,0,0,46,11,69,44,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,289
+510,1,1,1,1,0,0,0,0,54,8,66,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,294
+511,1,1,1,1,0,0,0,0,22,11,65,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,257
+512,1,1,1,1,0,0,0,0,44,11,91,42,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,307
+513,1,1,1,1,0,0,0,0,46,11,94,34,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,304
+514,1,1,1,1,0,0,0,0,32,11,92,34,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,288
+515,1,1,1,1,0,0,0,0,21,8,91,34,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,273
+516,1,1,1,1,0,0,0,0,18,8,89,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,282
+517,1,1,1,1,0,0,0,0,15,8,74,30,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,246
+518,1,1,1,1,0,0,0,0,25,11,56,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,250
+519,1,1,1,1,0,0,0,0,30,8,51,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,248
+520,1,1,1,1,0,0,0,0,30,11,60,34,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,254
+521,1,1,1,1,0,0,0,0,18,8,75,31,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,251
+522,1,1,1,1,0,0,0,0,27,11,92,37,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,286
+523,1,1,1,1,0,0,0,0,30,8,84,36,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,277
+524,1,1,1,1,0,0,0,0,13,11,93,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,287
+525,1,1,1,1,0,0,0,0,31,11,87,18,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,266
+526,1,1,1,1,0,0,0,0,19,8,36,34,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,216
+527,1,1,1,1,0,0,0,0,25,33,84,50,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,311
+528,1,1,1,1,0,0,0,0,28,8,76,22,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,253
+529,1,1,1,1,0,0,0,0,14,8,90,57,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,288
+530,1,1,1,1,0,0,0,0,10,8,53,23,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,213
+531,1,1,1,1,0,0,0,0,15,8,92,33,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,267
+532,1,1,1,1,0,0,0,0,18,8,80,28,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,253
+533,1,1,1,1,0,0,0,0,20,11,92,26,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,268
+534,1,1,1,1,0,0,0,0,9,8,86,38,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,260
+535,1,1,1,1,0,0,0,0,21,8,84,44,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,276
+536,1,1,1,1,0,0,0,0,27,8,53,22,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,229
+537,1,1,1,1,0,0,0,0,24,11,89,30,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,273
+538,1,1,1,1,0,0,0,0,17,11,54,33,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,234
+539,1,1,1,1,0,0,0,0,20,11,85,21,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,256
+540,1,1,1,1,0,0,0,0,18,11,68,24,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,240
+541,1,1,1,1,0,0,0,0,17,11,76,26,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,249
+542,1,1,1,1,0,0,0,0,13,8,75,17,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,232
+543,1,1,1,1,0,0,0,0,21,33,93,15,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,281
+544,1,1,1,1,0,0,0,0,15,8,37,23,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,202
+545,1,1,1,1,0,0,0,0,16,8,76,20,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,239
+546,1,1,1,1,0,0,0,0,12,8,85,17,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,241
+547,1,1,1,1,0,0,0,0,13,33,73,21,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,259
+548,1,1,1,1,0,0,0,0,8,8,70,28,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,233
+549,1,1,1,1,0,0,0,0,10,8,48,10,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,195
+550,1,1,1,1,0,0,0,0,12,8,77,19,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,235
+551,1,1,1,1,0,0,0,0,12,11,79,26,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,247
+552,1,1,1,1,0,0,0,0,17,33,76,24,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,269
+553,1,1,1,1,0,0,0,0,19,33,78,31,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,280
+554,1,1,1,1,0,0,0,0,11,33,75,31,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,269
+555,1,1,1,1,0,0,0,0,28,8,76,41,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,272
+556,1,1,1,1,0,0,0,0,13,11,80,24,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,247
+557,1,1,1,1,0,0,0,0,21,11,88,14,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,253
+558,1,1,1,1,0,0,0,0,26,8,76,23,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,252
+559,1,1,1,1,0,0,0,0,20,33,75,14,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,261
+560,1,1,1,1,0,0,0,0,22,11,69,11,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,232
+561,1,1,1,1,0,0,0,0,20,8,74,17,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,238
+562,1,1,1,1,0,0,0,0,14,8,67,28,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,236
+563,1,1,1,1,0,0,0,0,10,8,72,22,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,231
+564,1,1,1,1,0,0,0,0,18,8,73,7,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,225
+565,1,1,1,1,0,0,0,0,18,8,79,27,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,251
+566,1,1,1,1,0,0,0,0,16,8,77,16,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,236
+567,1,1,1,1,0,0,0,0,13,8,67,15,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,222
+568,1,1,1,1,0,0,0,0,21,8,71,24,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,243
+569,1,1,1,1,0,0,0,0,25,8,76,26,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,254
+570,1,1,1,1,0,0,0,0,31,33,95,29,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,307
+571,1,1,1,1,0,0,0,0,35,8,78,26,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,266
+572,1,1,1,1,0,0,0,0,13,8,79,22,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,241
+573,1,1,1,1,0,0,0,0,12,8,74,16,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,229
+574,1,1,1,1,0,0,0,0,34,11,91,17,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,272
+575,1,1,1,1,0,0,0,0,19,8,74,20,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,240
+576,1,1,1,1,0,0,0,0,21,8,72,22,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,242
+577,1,1,1,1,0,0,0,0,20,33,79,17,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,268
+578,1,1,1,1,0,0,0,0,16,8,73,18,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,234
+579,1,1,1,1,0,0,0,0,19,11,74,24,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,247
+580,1,1,1,1,0,0,0,0,29,11,85,16,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,260
+581,1,1,1,1,0,0,0,0,29,8,86,14,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,256
+582,1,1,1,1,0,0,0,0,16,8,69,31,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,243
+583,1,1,1,1,0,0,0,0,23,8,68,22,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,240
+584,1,1,1,1,0,0,0,0,21,8,71,15,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,234
+585,1,1,1,1,0,0,0,0,21,8,71,19,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,238
+586,1,1,1,1,0,0,0,0,17,8,74,20,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,238
+587,1,1,1,1,0,0,0,0,18,11,71,22,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,241
+588,1,1,1,1,0,0,0,0,13,8,78,14,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,232
+589,1,1,1,1,0,0,0,0,20,11,79,14,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,243
+590,1,1,1,1,0,0,0,0,16,11,73,13,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,232
+591,1,1,1,1,0,0,0,0,24,8,80,18,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,249
+592,1,1,1,1,0,0,0,0,24,8,71,18,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,240
+593,1,1,1,1,0,0,0,0,25,8,76,14,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,242
+594,1,1,1,1,0,0,0,0,22,8,74,20,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho tìm kiếm - trải nghiệm (tổng qu…,243
+595,1,1,1,1,0,0,0,0,39,8,99,54,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,319
+596,1,1,1,1,0,0,0,0,48,8,79,64,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,318
+597,1,1,1,1,0,0,0,0,54,8,98,52,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,331
+598,1,1,1,1,0,0,0,0,43,8,100,65,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,335
+599,1,1,1,1,0,0,0,0,64,8,76,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,318
+600,1,1,1,1,0,0,0,0,73,8,56,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,304
+601,1,1,1,1,0,0,0,0,36,8,108,63,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,334
+602,1,1,1,1,0,0,0,0,42,8,82,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,298
+603,1,1,1,1,0,0,0,0,53,8,76,65,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,321
+604,1,1,1,1,0,0,0,0,46,8,94,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,313
+605,1,1,1,1,0,0,0,0,50,8,78,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,301
+606,1,1,1,1,0,0,0,0,45,8,73,49,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,294
+607,1,1,1,1,0,0,0,0,48,8,58,53,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,286
+608,1,1,1,1,0,0,0,0,49,8,49,57,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,282
+609,1,1,1,1,0,0,0,0,57,8,102,72,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,358
+610,1,1,1,1,0,0,0,0,53,8,112,49,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,341
+611,1,1,1,1,0,0,0,0,15,8,96,58,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,296
+612,1,1,1,1,0,0,0,0,53,8,94,57,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,331
+613,1,1,1,1,0,0,0,0,18,8,57,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,257
+614,1,1,1,1,0,0,0,0,35,8,99,64,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,325
+615,1,1,1,1,0,0,0,0,42,8,88,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,296
+616,1,1,1,1,0,0,0,0,48,8,77,77,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,329
+617,1,1,1,1,0,0,0,0,49,8,71,43,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,290
+618,1,1,1,1,0,0,0,0,67,8,49,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,290
+619,1,1,1,1,0,0,0,0,38,8,92,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,312
+620,1,1,1,1,0,0,0,0,42,8,67,54,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,290
+621,1,1,1,1,0,0,0,0,27,8,73,45,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,272
+622,1,1,1,1,0,0,0,0,43,8,57,61,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,288
+623,1,1,1,1,0,0,0,0,42,8,76,45,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,290
+624,1,1,1,1,0,0,0,0,40,8,65,58,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,290
+625,1,1,1,1,0,0,0,0,52,8,92,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; ưu tiên hiệu năng (SLA/latency/throughput); môi tr…,310
+626,1,1,1,1,0,0,0,0,44,8,101,51,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho phân trang - trải nghiệm (tổng …,323
+627,1,1,1,1,0,0,0,0,55,8,58,42,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho phân trang - trải nghiệm (tổng …,282
+628,1,1,1,1,0,0,0,0,32,8,76,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho phân trang - trải nghiệm (tổng …,281
+629,1,1,1,1,0,0,0,0,20,8,71,57,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho phân trang - trải nghiệm (tổng …,275
+630,1,1,1,1,0,0,0,0,32,8,53,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho phân trang - trải nghiệm (tổng …,251
+631,1,1,1,1,0,0,0,0,34,8,85,70,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho phân trang - trải nghiệm (tổng …,316
+632,1,1,1,1,0,0,0,0,50,16,56,39,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho phân trang - trải nghiệm (tổng …,280
+633,1,1,1,1,0,0,0,0,43,8,50,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho phân trang - trải nghiệm (tổng …,260
+634,1,1,1,1,0,0,0,0,40,8,57,42,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge - Tạo test case cho phân trang - trải nghiệm (tổng …,266
+635,1,1,1,1,0,0,0,0,42,11,96,59,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,327
+636,1,1,1,1,0,0,0,0,40,33,73,58,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,323
+637,1,1,1,1,0,0,0,0,53,17,73,56,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,318
+638,1,1,1,1,0,0,0,0,21,8,77,54,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,279
+639,1,1,1,1,0,0,0,0,19,8,102,40,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,288
+640,1,1,1,1,0,0,0,0,20,17,94,47,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,297
+641,1,1,1,1,0,0,0,0,25,17,111,46,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,318
+642,1,1,1,1,0,0,0,0,45,8,80,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,300
+643,1,1,1,1,0,0,0,0,32,8,110,58,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,327
+644,1,1,1,1,0,0,0,0,31,17,66,32,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,265
+645,1,1,1,1,0,0,0,0,45,17,123,55,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,359
+646,1,1,1,1,0,0,0,0,42,17,89,35,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,302
+647,1,1,1,1,0,0,0,0,45,17,109,33,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,323
+648,1,1,1,1,0,0,0,0,24,17,72,48,Hệ thống cả hai; vai trò: Người dùng/Tester; môi trường: Chrome/Edge; kiểm thử chức năng theo yêu cầu nghiệp vụ - Tạo te…,280
+649,1,1,1,1,0,0,0,0,26,17,128,35,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,325
+650,1,1,1,1,0,0,0,0,39,17,128,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,335
+651,1,1,1,1,0,0,0,0,40,17,128,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,336
+652,1,1,1,1,0,0,0,0,35,17,128,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,330
+653,1,1,1,1,0,0,0,0,39,17,128,28,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,331
+654,1,1,1,1,0,0,0,0,37,17,128,17,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,318
+655,1,1,1,1,0,0,0,0,43,17,128,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,334
+656,1,1,1,1,0,0,0,0,35,17,128,20,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,319
+657,1,1,1,1,0,0,0,0,40,17,128,49,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,353
+658,1,1,1,1,0,0,0,0,25,8,33,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,217
+659,1,1,1,1,0,0,0,0,11,8,35,26,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,199
+660,1,1,1,1,0,0,0,0,31,17,128,28,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,323
+661,1,1,1,1,0,0,0,0,38,8,37,38,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,240
+662,1,1,1,1,0,0,0,0,37,17,128,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,335
+663,1,1,1,1,0,0,0,0,41,8,64,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,276
+664,1,1,1,1,0,0,0,0,27,8,37,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,232
+665,1,1,1,1,0,0,0,0,25,8,47,47,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,246
+666,1,1,1,1,0,0,0,0,54,8,90,48,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,319
+667,1,1,1,1,0,0,0,0,41,17,128,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,348
+668,1,1,1,1,0,0,0,0,16,11,100,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,285
+669,1,1,1,1,0,0,0,0,36,8,96,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,303
+670,1,1,1,1,0,0,0,0,23,8,92,58,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,300
+671,1,1,1,1,0,0,0,0,32,8,72,38,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,269
+672,1,1,1,1,0,0,0,0,28,8,96,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,294
+673,1,1,1,1,0,0,0,0,34,11,100,37,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,301
+674,1,1,1,1,0,0,0,0,40,17,128,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,343
+675,1,1,1,1,0,0,0,0,32,17,128,62,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,358
+676,1,1,1,1,0,0,0,0,37,17,128,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,344
+677,1,1,1,1,0,0,0,0,29,8,102,51,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,309
+678,1,1,1,1,0,0,0,0,23,8,44,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,225
+679,1,1,1,1,0,0,0,0,24,8,52,38,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,241
+680,1,1,1,1,0,0,0,0,19,8,87,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,272
+681,1,1,1,1,0,0,0,0,33,8,90,47,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: trường Ngày hỗ trợ nhập tay & date picke…,297
+682,1,1,1,1,0,0,0,0,38,8,72,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,281
+683,1,1,1,1,0,0,0,0,52,8,96,54,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,329
+684,1,1,1,1,0,0,0,0,53,8,76,40,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,296
+685,1,1,1,1,0,0,0,0,48,8,89,38,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,302
+686,1,1,1,1,0,0,0,0,39,8,66,73,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,305
+687,1,1,1,1,0,0,0,0,41,17,128,46,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,351
+688,1,1,1,1,0,0,0,0,60,8,76,52,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,315
+689,1,1,1,1,0,0,0,0,26,8,67,56,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,276
+690,1,1,1,1,0,0,0,0,44,30,115,53,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,361
+691,1,1,1,1,0,0,0,0,50,30,115,47,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,361
+692,1,1,1,1,0,0,0,0,49,30,115,38,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,351
+693,1,1,1,1,0,0,0,0,36,30,115,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,342
+694,1,1,1,1,0,0,0,0,46,8,104,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,321
+695,1,1,1,1,0,0,0,0,41,8,46,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,258
+696,1,1,1,1,0,0,0,0,33,8,71,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,273
+697,1,1,1,1,0,0,0,0,38,8,74,30,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,269
+698,1,1,1,1,0,0,0,0,30,8,90,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,291
+699,1,1,1,1,0,0,0,0,61,8,47,36,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,271
+700,1,1,1,1,0,0,0,0,38,11,100,45,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,313
+701,1,1,1,1,0,0,0,0,33,8,82,47,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho quản lý tài khoản - chức năng…,289
+702,1,1,1,1,0,0,0,0,48,8,67,50,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,292
+703,1,1,1,1,0,0,0,0,49,8,76,62,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,314
+704,1,1,1,1,0,0,0,0,38,8,91,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,288
+705,1,1,1,1,0,0,0,0,32,8,77,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,267
+706,1,1,1,1,0,0,0,0,31,8,74,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,273
+707,1,1,1,1,0,0,0,0,28,8,109,54,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,318
+708,1,1,1,1,0,0,0,0,40,8,88,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,298
+709,1,1,1,1,0,0,0,0,33,8,105,48,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,313
+710,1,1,1,1,0,0,0,0,35,8,65,51,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,278
+711,1,1,1,1,0,0,0,0,37,8,111,47,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,322
+712,1,1,1,1,0,0,0,0,41,8,88,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,299
+713,1,1,1,1,0,0,0,0,48,8,52,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,270
+714,1,1,1,1,0,0,0,0,46,8,68,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,275
+715,1,1,1,1,0,0,0,0,29,8,72,47,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,275
+716,1,1,1,1,0,0,0,0,35,8,63,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,264
+717,1,1,1,1,0,0,0,0,23,8,80,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,272
+718,1,1,1,1,0,0,0,0,35,8,75,40,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,277
+719,1,1,1,1,0,0,0,0,43,8,78,49,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,297
+720,1,1,1,1,0,0,0,0,35,8,76,37,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,275
+721,1,1,1,1,0,0,0,0,42,8,73,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho xử lý giao dịch - chức năng (…,284
+722,1,1,1,1,0,0,0,0,30,30,115,44,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",338
+723,1,1,1,1,0,0,0,0,44,30,115,50,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",358
+724,1,1,1,1,0,0,0,0,32,30,115,50,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",346
+725,1,1,1,1,0,0,0,0,38,8,99,40,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",304
+726,1,1,1,1,0,0,0,0,35,8,77,50,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",289
+727,1,1,1,1,0,0,0,0,34,8,87,36,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",284
+728,1,1,1,1,0,0,0,0,12,8,78,55,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",272
+729,1,1,1,1,0,0,0,0,37,8,96,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",297
+730,1,1,1,1,0,0,0,0,38,30,115,43,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",345
+731,1,1,1,1,0,0,0,0,41,8,94,41,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",303
+732,1,1,1,1,0,0,0,0,36,30,115,47,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",347
+733,1,1,1,1,0,0,0,0,21,30,115,40,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",325
+734,1,1,1,1,0,0,0,0,27,8,68,27,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",249
+735,1,1,1,1,0,0,0,0,33,8,74,39,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",273
+736,1,1,1,1,0,0,0,0,37,8,77,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",278
+737,1,1,1,1,0,0,0,0,28,30,115,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",327
+738,1,1,1,1,0,0,0,0,42,8,112,28,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",309
+739,1,1,1,1,0,0,0,0,37,8,96,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",295
+740,1,1,1,1,0,0,0,0,17,30,115,38,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",319
+741,1,1,1,1,0,0,0,0,32,8,65,44,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",268
+742,1,1,1,1,0,0,0,0,36,8,48,43,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,254
+743,1,1,1,1,0,0,0,0,32,8,104,34,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,297
+744,1,1,1,1,0,0,0,0,41,8,97,33,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,298
+745,1,1,1,1,0,0,0,0,41,8,52,40,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,260
+746,1,1,1,1,0,0,0,0,45,8,59,33,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,264
+747,1,1,1,1,0,0,0,0,41,8,56,38,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,262
+748,1,1,1,1,0,0,0,0,24,8,52,37,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,240
+749,1,1,1,1,0,0,0,0,42,30,115,34,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,340
+750,1,1,1,1,0,0,0,0,24,8,75,44,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,270
+751,1,1,1,1,0,0,0,0,23,8,58,28,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,236
+752,1,1,1,1,0,0,0,0,18,8,81,44,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,270
+753,1,1,1,1,0,0,0,0,25,30,115,33,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,322
+754,1,1,1,1,0,0,0,0,37,8,91,43,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,298
+755,1,1,1,1,0,0,0,0,26,8,63,47,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,263
+756,1,1,1,1,0,0,0,0,37,8,108,27,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,299
+757,1,1,1,1,0,0,0,0,31,8,69,36,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,263
+758,1,1,1,1,0,0,0,0,25,8,71,36,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,259
+759,1,1,1,1,0,0,0,0,31,8,55,38,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,251
+760,1,1,1,1,0,0,0,0,34,8,84,40,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,285
+761,1,1,1,1,0,0,0,0,28,8,73,45,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,273
+762,1,1,1,1,0,0,0,0,57,8,88,47,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,319
+763,1,1,1,1,0,0,0,0,43,8,116,24,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,310
+764,1,1,1,1,0,0,0,0,44,8,83,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,297
+765,1,1,1,1,0,0,0,0,33,8,93,28,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,281
+766,1,1,1,1,0,0,0,0,40,8,103,22,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,292
+767,1,1,1,1,0,0,0,0,59,8,96,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,313
+768,1,1,1,1,0,0,0,0,43,8,67,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,281
+769,1,1,1,1,0,0,0,0,26,8,73,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,265
+770,1,1,1,1,0,0,0,0,40,8,78,48,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,293
+771,1,1,1,1,0,0,0,0,38,8,108,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,316
+772,1,1,1,1,0,0,0,0,25,8,82,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,275
+773,1,1,1,1,0,0,0,0,48,8,113,33,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,321
+774,1,1,1,1,0,0,0,0,36,8,99,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,289
+775,1,1,1,1,0,0,0,0,27,8,64,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,261
+776,1,1,1,1,0,0,0,0,25,8,56,35,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,243
+777,1,1,1,1,0,0,0,0,27,8,75,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,271
+778,1,1,1,1,0,0,0,0,36,8,68,33,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,264
+779,1,1,1,1,0,0,0,0,42,8,105,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,305
+780,1,1,1,1,0,0,0,0,38,8,71,37,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,273
+781,1,1,1,1,0,0,0,0,35,8,70,57,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - đa nền tảng (…,289
+782,1,1,1,1,0,0,0,0,24,8,81,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,276
+783,1,1,1,1,0,0,0,0,38,30,115,25,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,327
+784,1,1,1,1,0,0,0,0,26,27,105,23,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,300
+785,1,1,1,1,0,0,0,0,46,8,90,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,304
+786,1,1,1,1,0,0,0,0,47,8,89,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,294
+787,1,1,1,1,0,0,0,0,39,8,93,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,300
+788,1,1,1,1,0,0,0,0,22,8,112,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,293
+789,1,1,1,1,0,0,0,0,29,8,83,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,266
+790,1,1,1,1,0,0,0,0,27,8,68,45,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,267
+791,1,1,1,1,0,0,0,0,30,8,71,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,272
+792,1,1,1,1,0,0,0,0,27,8,70,33,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,257
+793,1,1,1,1,0,0,0,0,23,8,35,33,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,218
+794,1,1,1,1,0,0,0,0,30,8,102,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,290
+795,1,1,1,1,0,0,0,0,34,8,100,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,303
+796,1,1,1,1,0,0,0,0,25,8,85,22,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,259
+797,1,1,1,1,0,0,0,0,38,11,100,22,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,290
+798,1,1,1,1,0,0,0,0,39,8,81,28,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,275
+799,1,1,1,1,0,0,0,0,41,27,105,48,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,340
+800,1,1,1,1,0,0,0,0,47,8,83,52,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,309
+801,1,1,1,1,0,0,0,0,38,8,55,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,263
+802,1,1,1,1,0,0,0,0,41,30,115,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,349
+803,1,1,1,1,0,0,0,0,26,30,115,37,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,327
+804,1,1,1,1,0,0,0,0,32,30,115,45,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,341
+805,1,1,1,1,0,0,0,0,36,30,115,37,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,337
+806,1,1,1,1,0,0,0,0,34,8,66,33,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,260
+807,1,1,1,1,0,0,0,0,26,30,115,40,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,330
+808,1,1,1,1,0,0,0,0,44,8,89,52,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,312
+809,1,1,1,1,0,0,0,0,26,30,115,35,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,325
+810,1,1,1,1,0,0,0,0,26,8,89,30,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,272
+811,1,1,1,1,0,0,0,0,29,30,115,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,327
+812,1,1,1,1,0,0,0,0,31,30,115,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,339
+813,1,1,1,1,0,0,0,0,19,8,79,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,266
+814,1,1,1,1,0,0,0,0,21,30,115,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,316
+815,1,1,1,1,0,0,0,0,44,30,115,56,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,364
+816,1,1,1,1,0,0,0,0,24,30,115,28,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,316
+817,1,1,1,1,0,0,0,0,17,30,115,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,308
+818,1,1,1,1,0,0,0,0,28,30,115,38,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,330
+819,1,1,1,1,0,0,0,0,31,30,115,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,322
+820,1,1,1,1,0,0,0,0,31,30,115,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,326
+821,1,1,1,1,0,0,0,0,37,30,115,36,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng nhập - chức năng (thương…,337
+822,1,1,1,1,0,0,0,0,39,27,105,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,331
+823,1,1,1,1,0,0,0,0,29,27,105,45,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,325
+824,1,1,1,1,0,0,0,0,41,27,105,26,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,318
+825,1,1,1,1,0,0,0,0,37,27,105,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,329
+826,1,1,1,1,0,0,0,0,25,8,69,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,260
+827,1,1,1,1,0,0,0,0,32,8,99,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,297
+828,1,1,1,1,0,0,0,0,31,27,105,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,326
+829,1,1,1,1,0,0,0,0,38,27,105,21,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,310
+830,1,1,1,1,0,0,0,0,26,27,105,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,309
+831,1,1,1,1,0,0,0,0,35,27,105,49,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng ký - chức năng (thương m…,335
+832,1,1,1,1,0,0,0,0,31,8,56,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,241
+833,1,1,1,1,0,0,0,0,40,11,100,29,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,299
+834,1,1,1,1,0,0,0,0,25,8,61,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,257
+835,1,1,1,1,0,0,0,0,41,11,100,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,303
+836,1,1,1,1,0,0,0,0,22,8,94,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,277
+837,1,1,1,1,0,0,0,0,26,8,93,16,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,262
+838,1,1,1,1,0,0,0,0,25,16,110,22,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,292
+839,1,1,1,1,0,0,0,0,20,16,110,22,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,287
+840,1,1,1,1,0,0,0,0,32,11,100,26,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,288
+841,1,1,1,1,0,0,0,0,21,8,95,28,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,271
+842,1,1,1,1,0,0,0,0,36,11,100,21,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,287
+843,1,1,1,1,0,0,0,0,24,8,93,25,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,269
+844,1,1,1,1,0,0,0,0,30,8,105,30,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,292
+845,1,1,1,1,0,0,0,0,13,8,100,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,279
+846,1,1,1,1,0,0,0,0,26,8,66,36,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho tìm kiếm - chức năng (thương …,255
+847,1,1,1,1,0,0,0,0,36,8,82,24,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho danh mục & sản phẩm - chức nă…,269
+848,1,1,1,1,0,0,0,0,17,16,110,36,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho danh mục & sản phẩm - chức nă…,298
+849,1,1,1,1,0,0,0,0,31,8,98,19,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",275
+850,1,1,1,1,0,0,0,0,24,8,98,32,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",281
+851,1,1,1,1,0,0,0,0,17,11,128,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",312
+852,1,1,1,1,0,0,0,0,16,11,128,20,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",294
+853,1,1,1,1,0,0,0,0,26,8,87,31,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",271
+854,1,1,1,1,0,0,0,0,41,8,80,36,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",284
+855,1,1,1,1,0,0,0,0,26,11,128,28,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",312
+856,1,1,1,1,0,0,0,0,16,8,93,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",271
+857,1,1,1,1,0,0,0,0,24,8,73,15,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",239
+858,1,1,1,1,0,0,0,0,20,8,94,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",276
+859,1,1,1,1,0,0,0,0,40,11,128,17,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",315
+860,1,1,1,1,0,0,0,0,24,8,93,20,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",264
+861,1,1,1,1,0,0,0,0,31,8,100,23,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",281
+862,1,1,1,1,0,0,0,0,21,8,101,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",286
+863,1,1,1,1,0,0,0,0,26,11,128,28,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",312
+864,1,1,1,1,0,0,0,0,21,8,55,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",238
+865,1,1,1,1,0,0,0,0,19,8,62,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",243
+866,1,1,1,1,0,0,0,0,17,11,128,36,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",311
+867,1,1,1,1,0,0,0,0,22,17,128,29,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",315
+868,1,1,1,1,0,0,0,0,26,11,128,26,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",310
+869,1,1,1,1,0,0,0,0,32,8,88,33,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",280
+870,1,1,1,1,0,0,0,0,36,8,91,25,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",279
+871,1,1,1,1,0,0,0,0,17,30,115,32,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",313
+872,1,1,1,1,0,0,0,0,22,8,87,30,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",266
+873,1,1,1,1,0,0,0,0,29,27,105,32,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",312
+874,1,1,1,1,0,0,0,0,24,8,82,9,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",242
+875,1,1,1,1,0,0,0,0,15,8,87,31,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",260
+876,1,1,1,1,0,0,0,0,26,11,128,34,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",318
+877,1,1,1,1,0,0,0,0,23,8,92,26,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",268
+878,1,1,1,1,0,0,0,0,22,8,96,24,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",269
+879,1,1,1,1,0,0,0,0,26,8,55,31,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",239
+880,1,1,1,1,0,0,0,0,27,8,82,21,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",257
+881,1,1,1,1,0,0,0,0,31,8,51,49,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",258
+882,1,1,1,1,0,0,0,0,36,11,128,21,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",315
+883,1,1,1,1,0,0,0,0,30,8,41,19,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",217
+884,1,1,1,1,0,0,0,0,32,8,80,30,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",269
+885,1,1,1,1,0,0,0,0,36,8,42,25,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",230
+886,1,1,1,1,0,0,0,0,40,8,78,17,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",262
+887,1,1,1,1,0,0,0,0,37,8,64,27,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",255
+888,1,1,1,1,0,0,0,0,34,11,128,21,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",313
+889,1,1,1,1,0,0,0,0,32,8,62,34,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",255
+890,1,1,1,1,0,0,0,0,25,8,95,24,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",271
+891,1,1,1,1,0,0,0,0,26,8,92,43,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",288
+892,1,1,1,1,0,0,0,0,26,17,128,21,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",311
+893,1,1,1,1,0,0,0,0,34,8,91,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",289
+894,1,1,1,1,0,0,0,0,16,8,58,29,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",230
+895,1,1,1,1,0,0,0,0,26,8,92,46,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",291
+896,1,1,1,1,0,0,0,0,50,8,60,39,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",276
+897,1,1,1,1,0,0,0,0,29,8,84,24,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",264
+898,1,1,1,1,0,0,0,0,21,8,68,29,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",245
+899,1,1,1,1,0,0,0,0,45,8,92,33,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",297
+900,1,1,1,1,0,0,0,0,42,8,68,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",274
+901,1,1,1,1,0,0,0,0,20,8,102,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",284
+902,1,1,1,1,0,0,0,0,22,8,99,31,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",279
+903,1,1,1,1,0,0,0,0,12,8,86,27,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",252
+904,1,1,1,1,0,0,0,0,25,8,91,46,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",289
+905,1,1,1,1,0,0,0,0,21,8,62,23,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",233
+906,1,1,1,1,0,0,0,0,41,8,116,19,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",303
+907,1,1,1,1,0,0,0,0,25,8,103,39,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",294
+908,1,1,1,1,0,0,0,0,44,17,128,33,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",341
+909,1,1,1,1,0,0,0,0,25,8,102,32,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",286
+910,1,1,1,1,0,0,0,0,27,8,86,33,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",273
+911,1,1,1,1,0,0,0,0,44,17,128,16,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",324
+912,1,1,1,1,0,0,0,0,49,8,102,18,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",296
+913,1,1,1,1,0,0,0,0,40,8,85,27,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",279
+914,1,1,1,1,0,0,0,0,29,8,82,38,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",276
+915,1,1,1,1,0,0,0,0,37,8,62,28,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",254
+916,1,1,1,1,0,0,0,0,26,8,103,22,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",278
+917,1,1,1,1,0,0,0,0,29,8,94,22,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",272
+918,1,1,1,1,0,0,0,0,38,8,68,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",270
+919,1,1,1,1,0,0,0,0,36,8,88,47,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",298
+920,1,1,1,1,0,0,0,0,28,30,115,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",329
+921,1,1,1,1,0,0,0,0,48,8,114,63,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",352
+922,1,1,1,1,0,0,0,0,28,8,53,30,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",238
+923,1,1,1,1,0,0,0,0,39,11,128,39,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",336
+924,1,1,1,1,0,0,0,0,30,8,58,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",252
+925,1,1,1,1,0,0,0,0,26,8,67,58,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",278
+926,1,1,1,1,0,0,0,0,40,8,62,40,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",269
+927,1,1,1,1,0,0,0,0,29,17,128,52,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",345
+928,1,1,1,1,0,0,0,0,32,8,67,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",261
+929,1,1,1,1,0,0,0,0,33,8,105,42,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",307
+930,1,1,1,1,0,0,0,0,32,30,115,39,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",335
+931,1,1,1,1,0,0,0,0,62,8,104,48,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",341
+932,1,1,1,1,0,0,0,0,70,8,83,59,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",339
+933,1,1,1,1,0,0,0,0,27,11,128,57,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",342
+934,1,1,1,1,0,0,0,0,31,8,64,36,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",258
+935,1,1,1,1,0,0,0,0,35,8,49,29,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",240
+936,1,1,1,1,0,0,0,0,19,8,47,25,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",218
+937,1,1,1,1,0,0,0,0,45,11,128,49,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",352
+938,1,1,1,1,0,0,0,0,52,30,115,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",351
+939,1,1,1,1,0,0,0,0,32,30,115,19,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",315
+940,1,1,1,1,0,0,0,0,41,8,47,40,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",255
+941,1,1,1,1,0,0,0,0,31,8,61,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",256
+942,1,1,1,1,0,0,0,0,30,8,51,33,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",241
+943,1,1,1,1,0,0,0,0,30,8,36,49,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",242
+944,1,1,1,1,0,0,0,0,28,8,67,53,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",275
+945,1,1,1,1,0,0,0,0,46,8,31,33,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",237
+946,1,1,1,1,0,0,0,0,23,8,80,43,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",273
+947,1,1,1,1,0,0,0,0,51,8,97,42,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",317
+948,1,1,1,1,0,0,0,0,41,8,100,48,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",316
+949,1,1,1,1,0,0,0,0,40,8,80,42,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",289
+950,1,1,1,1,0,0,0,0,50,30,115,40,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",354
+951,1,1,1,1,0,0,0,0,31,8,69,51,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",278
+952,1,1,1,1,0,0,0,0,21,8,92,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",277
+953,1,1,1,1,0,0,0,0,29,8,43,51,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",250
+954,1,1,1,1,0,0,0,0,35,8,65,40,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",267
+955,1,1,1,1,0,0,0,0,42,11,128,52,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",352
+956,1,1,1,1,0,0,0,0,42,30,115,43,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",349
+957,1,1,1,1,0,0,0,0,43,30,115,41,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",348
+958,1,1,1,1,0,0,0,0,29,30,115,36,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",329
+959,1,1,1,1,0,0,0,0,27,30,115,48,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",339
+960,1,1,1,1,0,0,0,0,49,30,115,35,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",348
+961,1,1,1,1,0,0,0,0,31,30,115,42,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",337
+962,1,1,1,1,0,0,0,0,52,30,115,64,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",380
+963,1,1,1,1,0,0,0,0,39,30,115,24,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",327
+964,1,1,1,1,0,0,0,0,34,30,115,46,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",344
+965,1,1,1,1,0,0,0,0,40,8,92,37,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",296
+966,1,1,1,1,0,0,0,0,35,30,115,59,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",358
+967,1,1,1,1,0,0,0,0,27,30,115,26,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng xuất - trải nghiệm (tổng…,317
+968,1,1,1,1,0,0,0,0,40,8,102,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng xuất - trải nghiệm (tổng…,300
+969,1,1,1,1,0,0,0,0,27,8,62,38,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng xuất - trải nghiệm (tổng…,254
+970,1,1,1,1,0,0,0,0,37,8,97,33,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng xuất - trải nghiệm (tổng…,294
+971,1,1,1,1,0,0,0,0,31,30,115,32,"Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test cas…",327
+972,1,1,1,1,0,0,0,0,39,8,101,37,"Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test cas…",304
+973,1,1,1,1,0,0,0,0,34,8,89,35,"Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test cas…",285
+974,1,1,1,1,0,0,0,0,31,8,101,22,"Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test cas…",281
+975,1,1,1,1,0,0,0,0,41,30,115,34,"Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test cas…",339
+976,1,1,1,1,0,0,0,0,31,8,61,52,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",271
+977,1,1,1,1,0,0,0,0,28,30,115,48,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",340
+978,1,1,1,1,0,0,0,0,40,11,128,44,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",342
+979,1,1,1,1,0,0,0,0,25,8,51,42,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",245
+980,1,1,1,1,0,0,0,0,33,8,99,50,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",309
+981,1,1,1,1,0,0,0,0,38,8,67,69,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",301
+982,1,1,1,1,0,0,0,0,36,30,115,32,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",332
+983,1,1,1,1,0,0,0,0,38,8,67,50,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",282
+984,1,1,1,1,0,0,0,0,36,8,69,54,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",286
+985,1,1,1,1,0,0,0,0,44,30,115,46,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",354
+986,1,1,1,1,0,0,0,0,34,8,85,44,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",290
+987,1,1,1,1,0,0,0,0,28,30,115,55,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",347
+988,1,1,1,1,0,0,0,0,28,30,115,51,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",343
+989,1,1,1,1,0,0,0,0,22,8,71,53,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",273
+990,1,1,1,1,0,0,0,0,33,30,115,47,"Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test cas…",344
+991,1,1,1,1,0,0,0,0,25,30,115,40,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",329
+992,1,1,1,1,0,0,0,0,19,8,55,66,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ ràng…",267
+993,1,1,1,1,0,0,0,0,42,8,60,70,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho đăng xuất - trải nghiệm (tổ…,299
+994,1,1,1,1,0,0,0,0,48,8,58,37,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",270
+995,1,1,1,1,0,0,0,0,47,8,52,23,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",249
+996,1,1,1,1,0,0,0,0,48,8,72,23,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",270
+997,1,1,1,1,0,0,0,0,48,8,68,53,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",296
+998,1,1,1,1,0,0,0,0,32,8,57,55,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",271
+999,1,1,1,1,0,0,0,0,19,8,76,35,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",257
+1000,1,1,1,1,0,0,0,0,26,8,72,41,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",266
+1001,1,1,1,1,0,0,0,0,32,8,59,49,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",267
+1002,1,1,1,1,0,0,0,0,28,8,51,54,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",260
+1003,1,1,1,1,0,0,0,0,28,8,72,26,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",253
+1004,1,1,1,1,0,0,0,0,38,8,80,29,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",274
+1005,1,1,1,1,0,0,0,0,18,8,62,69,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",276
+1006,1,1,1,1,0,0,0,0,38,8,57,42,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",264
+1007,1,1,1,1,0,0,0,0,33,8,58,53,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",271
+1008,1,1,1,1,0,0,0,0,37,8,71,68,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",303
+1009,1,1,1,1,0,0,0,0,27,8,70,45,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",269
+1010,1,1,1,1,0,0,0,0,47,8,64,35,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",273
+1011,1,1,1,1,0,0,0,0,41,8,45,60,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",273
+1012,1,1,1,1,0,0,0,0,17,8,72,28,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",244
+1013,1,1,1,1,0,0,0,0,53,11,128,63,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",374
+1014,1,1,1,1,0,0,0,0,51,11,128,45,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",354
+1015,1,1,1,1,0,0,0,0,21,11,128,26,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",305
+1016,1,1,1,1,0,0,0,0,28,8,81,61,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",297
+1017,1,1,1,1,0,0,0,0,28,8,110,50,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",315
+1018,1,1,1,1,0,0,0,0,46,8,79,32,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",284
+1019,1,1,1,1,0,0,0,0,52,8,113,33,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",325
+1020,1,1,1,1,0,0,0,0,26,8,118,41,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",312
+1021,1,1,1,1,0,0,0,0,19,8,78,41,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",265
+1022,1,1,1,1,0,0,0,0,38,8,103,75,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",343
+1023,1,1,1,1,0,0,0,0,29,8,54,44,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",254
+1024,1,1,1,1,0,0,0,0,23,8,73,36,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",259
+1025,1,1,1,1,0,0,0,0,25,8,26,53,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",231
+1026,1,1,1,1,0,0,0,0,29,8,105,54,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",315
+1027,1,1,1,1,0,0,0,0,28,8,55,46,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",256
+1028,1,1,1,1,0,0,0,0,30,8,55,36,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",248
+1029,1,1,1,1,0,0,0,0,33,8,47,32,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",239
+1030,1,1,1,1,0,0,0,0,35,8,40,42,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",244
+1031,1,1,1,1,0,0,0,0,12,8,55,12,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",206
+1032,1,1,1,1,0,0,0,0,7,8,52,32,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",218
+1033,1,1,1,1,0,0,0,0,7,8,44,24,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",202
+1034,1,1,1,1,0,0,0,0,29,8,54,39,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",249
+1035,1,1,1,1,0,0,0,0,7,8,39,11,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",184
+1036,1,1,1,1,0,0,0,0,31,8,60,43,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",261
+1037,1,1,1,1,0,0,0,0,7,8,39,40,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",213
+1038,1,1,1,1,0,0,0,0,12,8,51,11,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",201
+1039,1,1,1,1,0,0,0,0,41,8,83,48,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",299
+1040,1,1,1,1,0,0,0,0,35,11,128,48,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",341
+1041,1,1,1,1,0,0,0,0,27,8,83,42,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",279
+1042,1,1,1,1,0,0,0,0,32,8,38,30,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",227
+1043,1,1,1,1,0,0,0,0,31,11,128,37,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",326
+1044,1,1,1,1,0,0,0,0,25,8,54,45,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",251
+1045,1,1,1,1,0,0,0,0,15,8,50,26,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",218
+1046,1,1,1,1,0,0,0,0,30,8,37,43,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",237
+1047,1,1,1,1,0,0,0,0,17,8,66,48,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",258
+1048,1,1,1,1,0,0,0,0,42,8,49,27,"Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ, thông báo lỗi rõ rà…",245
+1049,1,1,1,1,0,0,0,0,18,8,55,34,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,234
+1050,1,1,1,1,0,0,0,0,22,8,96,29,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,274
+1051,1,1,1,1,0,0,0,0,21,11,135,26,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,312
+1052,1,1,1,1,0,0,0,0,26,8,98,29,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,280
+1053,1,1,1,1,0,0,0,0,36,8,99,29,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,291
+1054,1,1,1,1,0,0,0,0,21,8,60,45,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,253
+1055,1,1,1,1,0,0,0,0,16,8,64,39,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,246
+1056,1,1,1,1,0,0,0,0,25,8,95,22,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,269
+1057,1,1,1,1,0,0,0,0,29,8,62,23,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,241
+1058,1,1,1,1,0,0,0,0,25,11,135,24,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,314
+1059,1,1,1,1,0,0,0,0,28,8,98,50,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,303
+1060,1,1,1,1,0,0,0,0,31,8,99,25,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - hiệu năng (…,282
+1061,1,1,1,1,0,0,0,0,23,8,63,28,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,241
+1062,1,1,1,1,0,0,0,0,28,8,89,25,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,269
+1063,1,1,1,1,0,0,0,0,44,8,65,32,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,268
+1064,1,1,1,1,0,0,0,0,20,8,72,32,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,251
+1065,1,1,1,1,0,0,0,0,22,8,65,20,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,234
+1066,1,1,1,1,0,0,0,0,20,8,51,47,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,245
+1067,1,1,1,1,0,0,0,0,20,8,59,34,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,240
+1068,1,1,1,1,0,0,0,0,39,8,45,27,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,238
+1069,1,1,1,1,0,0,0,0,28,8,98,32,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm…,285
+1070,1,1,1,1,0,0,0,0,39,8,104,46,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,316
+1071,1,1,1,1,0,0,0,0,42,8,100,37,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,306
+1072,1,1,1,1,0,0,0,0,39,8,101,39,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,306
+1073,1,1,1,1,0,0,0,0,48,8,64,34,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,273
+1074,1,1,1,1,0,0,0,0,32,8,50,38,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,247
+1075,1,1,1,1,0,0,0,0,39,11,135,21,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,325
+1076,1,1,1,1,0,0,0,0,28,8,53,25,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,233
+1077,1,1,1,1,0,0,0,0,15,8,66,29,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,237
+1078,1,1,1,1,0,0,0,0,25,8,80,30,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,262
+1079,1,1,1,1,0,0,0,0,29,8,45,36,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,237
+1080,1,1,1,1,0,0,0,0,32,8,60,62,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,281
+1081,1,1,1,1,0,0,0,0,28,8,57,26,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,238
+1082,1,1,1,1,0,0,0,0,65,11,135,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,374
+1083,1,1,1,1,0,0,0,0,33,8,92,46,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,298
+1084,1,1,1,1,0,0,0,0,32,8,57,53,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,269
+1085,1,1,1,1,0,0,0,0,36,8,92,35,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,290
+1086,1,1,1,1,0,0,0,0,38,8,70,38,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,273
+1087,1,1,1,1,0,0,0,0,41,8,88,49,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,305
+1088,1,1,1,1,0,0,0,0,22,8,83,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,275
+1089,1,1,1,1,0,0,0,0,31,11,135,26,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,322
+1090,1,1,1,1,0,0,0,0,50,11,135,30,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,345
+1091,1,1,1,1,0,0,0,0,22,8,104,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,295
+1092,1,1,1,1,0,0,0,0,33,8,91,33,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,284
+1093,1,1,1,1,0,0,0,0,29,8,78,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,268
+1094,1,1,1,1,0,0,0,0,21,8,63,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,243
+1095,1,1,1,1,0,0,0,0,29,8,82,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,272
+1096,1,1,1,1,0,0,0,0,29,8,83,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,270
+1097,1,1,1,1,0,0,0,0,46,11,135,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,338
+1098,1,1,1,1,0,0,0,0,28,17,135,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,333
+1099,1,1,1,1,0,0,0,0,38,11,107,24,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,299
+1100,1,1,1,1,0,0,0,0,40,8,100,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,308
+1101,1,1,1,1,0,0,0,0,36,8,92,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,282
+1102,1,1,1,1,0,0,0,0,43,11,135,24,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,332
+1103,1,1,1,1,0,0,0,0,31,8,88,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,280
+1104,1,1,1,1,0,0,0,0,31,8,82,29,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,269
+1105,1,1,1,1,0,0,0,0,26,8,97,17,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,267
+1106,1,1,1,1,0,0,0,0,37,11,135,16,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,318
+1107,1,1,1,1,0,0,0,0,34,8,79,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,271
+1108,1,1,1,1,0,0,0,0,35,8,103,54,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - dữ liệu (Sale…,319
+1109,1,1,1,1,0,0,0,0,58,8,101,30,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - dữ liệu (Sale…,316
+1110,1,1,1,1,0,0,0,0,27,8,90,45,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - dữ liệu (Sale…,289
+1111,1,1,1,1,0,0,0,0,45,11,135,35,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - dữ liệu (Sale…,345
+1112,1,1,1,1,0,0,0,0,41,8,68,45,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,281
+1113,1,1,1,1,0,0,0,0,35,11,135,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,342
+1114,1,1,1,1,0,0,0,0,24,8,103,24,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,278
+1115,1,1,1,1,0,0,0,0,34,11,135,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,331
+1116,1,1,1,1,0,0,0,0,38,8,99,29,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,293
+1117,1,1,1,1,0,0,0,0,56,8,94,28,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - dữ liệu (Sale…,305
+1118,1,1,1,1,0,0,0,0,25,8,84,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,263
+1119,1,1,1,1,0,0,0,0,34,8,97,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,301
+1120,1,1,1,1,0,0,0,0,35,30,122,42,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",348
+1121,1,1,1,1,0,0,0,0,24,8,89,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - dữ liệu (Sale…,279
+1122,1,1,1,1,0,0,0,0,38,30,122,36,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",345
+1123,1,1,1,1,0,0,0,0,46,8,110,29,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",312
+1124,1,1,1,1,0,0,0,0,28,8,81,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,278
+1125,1,1,1,1,0,0,0,0,40,8,92,26,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,285
+1126,1,1,1,1,0,0,0,0,26,11,135,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,323
+1127,1,1,1,1,0,0,0,0,58,8,55,29,Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (Sal…,269
+1128,1,1,1,1,0,0,0,0,29,11,135,29,Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (Sal…,323
+1129,1,1,1,1,0,0,0,0,45,30,122,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,350
+1130,1,1,1,1,0,0,0,0,37,11,135,23,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,325
+1131,1,1,1,1,0,0,0,0,36,8,91,37,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,291
+1132,1,1,1,1,0,0,0,0,37,11,135,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,333
+1133,1,1,1,1,0,0,0,0,41,8,70,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,270
+1134,1,1,1,1,0,0,0,0,43,17,135,35,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - dữ liệu (Sale…,349
+1135,1,1,1,1,0,0,0,0,44,8,103,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,306
+1136,1,1,1,1,0,0,0,0,39,8,102,27,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,295
+1137,1,1,1,1,0,0,0,0,77,8,84,73,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,361
+1138,1,1,1,1,0,0,0,0,39,8,73,56,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,295
+1139,1,1,1,1,0,0,0,0,55,11,135,61,Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (Sal…,381
+1140,1,1,1,1,0,0,0,0,42,8,96,49,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,314
+1141,1,1,1,1,0,0,0,0,40,8,48,50,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,265
+1142,1,1,1,1,0,0,0,0,47,30,122,40,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,358
+1143,1,1,1,1,0,0,0,0,29,8,81,47,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,284
+1144,1,1,1,1,0,0,0,0,40,8,78,52,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,297
+1145,1,1,1,1,0,0,0,0,29,8,80,48,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,284
+1146,1,1,1,1,0,0,0,0,26,8,67,51,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,271
+1147,1,1,1,1,0,0,0,0,20,8,80,68,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,295
+1148,1,1,1,1,0,0,0,0,46,8,47,53,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,273
+1149,1,1,1,1,0,0,0,0,31,8,50,44,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,252
+1150,1,1,1,1,0,0,0,0,26,8,63,48,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,264
+1151,1,1,1,1,0,0,0,0,29,8,55,57,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,268
+1152,1,1,1,1,0,0,0,0,21,8,80,45,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,273
+1153,1,1,1,1,0,0,0,0,18,8,79,47,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,271
+1154,1,1,1,1,0,0,0,0,36,8,74,24,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,261
+1155,1,1,1,1,0,0,0,0,25,8,83,48,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,283
+1156,1,1,1,1,0,0,0,0,33,8,82,39,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,281
+1157,1,1,1,1,0,0,0,0,27,8,111,33,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,298
+1158,1,1,1,1,0,0,0,0,25,8,59,27,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,238
+1159,1,1,1,1,0,0,0,0,32,8,58,45,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,262
+1160,1,1,1,1,0,0,0,0,30,8,56,34,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,247
+1161,1,1,1,1,0,0,0,0,15,8,62,32,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,236
+1162,1,1,1,1,0,0,0,0,24,8,77,52,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,280
+1163,1,1,1,1,0,0,0,0,31,8,71,29,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,258
+1164,1,1,1,1,0,0,0,0,29,8,57,37,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,250
+1165,1,1,1,1,0,0,0,0,15,8,48,17,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,207
+1166,1,1,1,1,0,0,0,0,25,8,76,43,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,271
+1167,1,1,1,1,0,0,0,0,35,8,56,35,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,253
+1168,1,1,1,1,0,0,0,0,21,8,73,34,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,255
+1169,1,1,1,1,0,0,0,0,31,8,97,26,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,281
+1170,1,1,1,1,0,0,0,0,20,8,60,45,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,252
+1171,1,1,1,1,0,0,0,0,32,8,59,39,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,257
+1172,1,1,1,1,0,0,0,0,22,8,74,49,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,272
+1173,1,1,1,1,0,0,0,0,31,8,54,38,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,250
+1174,1,1,1,1,0,0,0,0,24,8,92,29,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,272
+1175,1,1,1,1,0,0,0,0,24,11,135,29,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,318
+1176,1,1,1,1,0,0,0,0,27,8,88,38,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,280
+1177,1,1,1,1,0,0,0,0,29,8,83,36,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,275
+1178,1,1,1,1,0,0,0,0,24,8,89,42,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,282
+1179,1,1,1,1,0,0,0,0,26,8,90,51,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,294
+1180,1,1,1,1,0,0,0,0,45,8,120,49,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,341
+1181,1,1,1,1,0,0,0,0,29,8,61,45,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,262
+1182,1,1,1,1,0,0,0,0,32,8,97,55,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,311
+1183,1,1,1,1,0,0,0,0,26,8,45,35,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,233
+1184,1,1,1,1,0,0,0,0,27,8,96,34,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,284
+1185,1,1,1,1,0,0,0,0,24,8,58,59,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,268
+1186,1,1,1,1,0,0,0,0,21,8,70,36,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,254
+1187,1,1,1,1,0,0,0,0,25,8,80,37,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,269
+1188,1,1,1,1,0,0,0,0,29,8,71,43,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,270
+1189,1,1,1,1,0,0,0,0,14,8,92,51,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,284
+1190,1,1,1,1,0,0,0,0,32,8,104,43,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,306
+1191,1,1,1,1,0,0,0,0,28,8,109,58,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,322
+1192,1,1,1,1,0,0,0,0,30,8,72,43,Hệ thống: ứng dụng; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ r…,272
+1193,1,1,1,1,0,0,0,0,57,8,75,58,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,317
+1194,1,1,1,1,0,0,0,0,33,8,85,76,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",321
+1195,1,1,1,1,0,0,0,0,40,8,69,44,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,280
+1196,1,1,1,1,0,0,0,0,26,8,68,56,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,277
+1197,1,1,1,1,0,0,0,0,59,30,122,64,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,394
+1198,1,1,1,1,0,0,0,0,49,8,82,54,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",312
+1199,1,1,1,1,0,0,0,0,44,8,108,66,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,345
+1200,1,1,1,1,0,0,0,0,32,8,109,73,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,341
+1201,1,1,1,1,0,0,0,0,35,11,135,51,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,351
+1202,1,1,1,1,0,0,0,0,37,8,59,58,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",281
+1203,1,1,1,1,0,0,0,0,44,8,130,66,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge. - Tạo test case cho phi chức năng - trải nghiệm (…,367
+1204,1,1,1,1,0,0,0,0,41,8,61,47,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,276
+1205,1,1,1,1,0,0,0,0,58,8,72,61,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,318
+1206,1,1,1,1,0,0,0,0,50,8,79,48,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,304
+1207,1,1,1,1,0,0,0,0,46,8,45,49,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,267
+1208,1,1,1,1,0,0,0,0,31,8,67,41,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",266
+1209,1,1,1,1,0,0,0,0,48,11,135,48,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,361
+1210,1,1,1,1,0,0,0,0,34,8,79,47,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",287
+1211,1,1,1,1,0,0,0,0,36,8,50,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,255
+1212,1,1,1,1,0,0,0,0,32,8,66,53,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,278
+1213,1,1,1,1,0,0,0,0,46,11,135,35,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,346
+1214,1,1,1,1,0,0,0,0,37,8,105,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,300
+1215,1,1,1,1,0,0,0,0,29,8,48,47,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",251
+1216,1,1,1,1,0,0,0,0,32,8,84,51,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,294
+1217,1,1,1,1,0,0,0,0,37,8,71,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,277
+1218,1,1,1,1,0,0,0,0,43,8,81,45,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,296
+1219,1,1,1,1,0,0,0,0,45,8,67,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,270
+1220,1,1,1,1,0,0,0,0,41,8,47,45,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,260
+1221,1,1,1,1,0,0,0,0,39,8,49,52,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,267
+1222,1,1,1,1,0,0,0,0,29,8,106,49,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,311
+1223,1,1,1,1,0,0,0,0,43,8,49,46,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",265
+1224,1,1,1,1,0,0,0,0,27,16,116,33,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,311
+1225,1,1,1,1,0,0,0,0,23,8,73,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: SLA thời gian đáp ứng/throughput. - Tạo …,264
+1226,1,1,1,1,0,0,0,0,26,8,95,41,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,289
+1227,1,1,1,1,0,0,0,0,28,8,59,34,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",248
+1228,1,1,1,1,0,0,0,0,37,27,112,32,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,327
+1229,1,1,1,1,0,0,0,0,32,8,70,31,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,260
+1230,1,1,1,1,0,0,0,0,41,8,96,42,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,306
+1231,1,1,1,1,0,0,0,0,32,8,84,55,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,298
+1232,1,1,1,1,0,0,0,0,32,8,73,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,275
+1233,1,1,1,1,0,0,0,0,52,8,64,48,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,291
+1234,1,1,1,1,0,0,0,0,28,8,87,46,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,288
+1235,1,1,1,1,0,0,0,0,32,8,67,35,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,261
+1236,1,1,1,1,0,0,0,0,27,8,74,39,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,267
+1237,1,1,1,1,0,0,0,0,23,8,105,43,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,298
+1238,1,1,1,1,0,0,0,0,47,8,80,25,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,279
+1239,1,1,1,1,0,0,0,0,31,8,66,33,"Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test cas…",257
+1240,1,1,1,1,0,0,0,0,27,8,82,38,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,274
+1241,1,1,1,1,0,0,0,0,36,8,91,25,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,279
+1242,1,1,1,1,0,0,0,0,47,8,100,57,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,331
+1243,1,1,1,1,0,0,0,0,33,8,90,57,"Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: kiểm soát truy cập, ghi log. - Tạo test …",307
+1244,1,1,1,1,0,0,0,0,36,8,111,58,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,332
+1245,1,1,1,1,0,0,0,0,38,11,135,44,Hệ thống: web; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràng. …,347
+1246,1,1,1,1,0,0,0,0,27,8,71,63,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,288
+1247,1,1,1,1,0,0,0,0,37,8,70,34,Hệ thống: cả hai; Vai trò: Người dùng/Tester; Môi trường: Chrome/Edge; Quy tắc: đáp ứng nghiệp vụ & thông báo lỗi rõ ràn…,268

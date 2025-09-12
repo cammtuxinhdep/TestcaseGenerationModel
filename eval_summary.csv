@@ -1,0 +1,3 @@
+﻿mode,exact,cosine,rougeL,bleu,bertscore_f1
+retrieval_only,0.0,0.6872,0.3207,0.1268,0.7511
+retrieval_plus_generator,0.0,0.4684,0.151,0.0014,0.7062
